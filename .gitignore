@@ -1,0 +1,18 @@
+results/
+data_real/
+figures/
+_old_files/
+*.asv
+*.mex*
+slprj/
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.log
+matlab_crash_dump*
+# Local geographic inputs pending source and redistribution confirmation.
+plots/geo/china_map.mat
+plots/geo/china_provinces.geojson

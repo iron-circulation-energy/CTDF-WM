@@ -1,0 +1,875 @@
+gppd_id,name,prov,lon,lat,mw,year,owner,source,distKm
+WRI1075566,APP Zhenjiang Jindong Mill power station,江苏省,119.6998,32.1944,290.0,2000,Asia Pulp & Paper China,GCPT,0.0
+WRI1075567,Aksu Cogen power station,新疆维吾尔自治区,80.3997,41.1542,700.0,2016,Zhejiang Zheneng Elec Pow Co,GCPT,0.0
+WRI1070222,Aksu Xuzhou power station,新疆维吾尔自治区,80.1685,41.0791,400.0,2011,Xuzhou Coal Mining Group Company,GCPT,0.0
+WRI1070145,Alashan Left Qi Wusitai power station,内蒙古自治区,106.6676,39.4463,600.0,2009,China Guodian Group Corporation,GCPT,0.0
+WRI1075568,Anda Cogen power station,黑龙江省,125.2982,46.3996,100.0,2014,Xinma Cogen Group,GCPT,0.0
+WRI1070400,Anhui Bengbu power station,安徽省,117.1150,32.7845,2520.0,2013,Anhui Bengbu Power Station,GCPT,0.0
+WRI1070535,Anhui Hwasu power station,安徽省,117.2532,32.5856,600.0,2012,Huaibei Coal Mining (Group) Co Ltd,GCPT,0.0
+WRI1070277,Anhui Xuancheng power station,安徽省,118.8648,30.8695,1320.0,2012,SDIC Huajing Power Holdings Co Ltd,GCPT,0.0
+WRI1070473,Anshan Steel Company No 2 power station,辽宁省,122.9649,41.1330,345.0,1973,Anshan Iron and Steel Group Corporation (Ansteel),GCPT,0.0
+WRI1070561,Anwen Songzao power station,重庆市,106.7531,28.6411,1620.0,2015,Chongqing Energy Investment Group,GCPT,0.0
+WRI1075569,Aoweiqianyuan Captive power station,陕西省,111.1430,39.2507,100.0,,Shanxi Aoweiqianyuan Chemical Co.,GCPT,0.0
+WRI1070220,Aral Xinhu Cogen power station,新疆维吾尔自治区,81.1955,40.5897,800.0,2013,Nongyishi Electric Power Company,GCPT,0.0
+WRI1075570,Baguanhe Washery power station,四川省,101.6119,26.5957,270.0,2007,Panzhihua Coal Group,GCPT,0.0
+WRI1070163,Baise Smelter power station,广西壮族自治区,106.8202,23.7857,700.0,2016,Guangxi Baise Mining Group Company Limited,GCPT,0.0
+WRI1070431,Baise Tianyang power station,广西壮族自治区,106.8150,23.7883,300.0,2007,Guangxi Investment Group Co Ltd,GCPT,0.0
+WRI1075571,Baitao cogen power station,重庆市,107.5165,29.5856,100.0,2012,Jianfeng Industry Group,GCPT,0.0
+WRI1070488,Baiyanghe power station,山东省,117.8427,36.4719,890.0,2002,Huaneng Shandong Power Corporation,GCPT,0.0
+WRI1075572,Baoding Northwest Suberb power station,河北省,115.3672,38.9618,350.0,2017,Shenzhen Energy,GCPT,0.0
+WRI1070020,Baoshan Works power station,上海市,121.4361,31.4424,1050.0,1986,,GCPT,0.0
+WRI1075573,Baosteel Zhanjiang power station,广东省,110.4940,21.0699,700.0,2014,Baosteel Zhanjiang I&S Co Ltd,GCPT,0.0
+WRI1075574,Baotou Aluminum power station,内蒙古自治区,110.1484,40.5572,1360.0,2016,Baotou Aluminum,GCPT,0.0
+WRI1070721,Baotou Donghua power station,内蒙古自治区,110.0738,40.5781,600.0,2005,China Huadian Group Corporation,GCPT,0.0
+WRI1070043,Baotou East Hope power station,内蒙古自治区,109.7828,40.5956,1320.0,2003,Baotou Rare Earth & Aluminum Co Ltd,GCPT,0.0
+WRI1070720,Baotou Hexi power station,内蒙古自治区,109.7900,40.5694,1200.0,2006,China Huadian Group Corporation,GCPT,0.0
+WRI1075575,Baotou Olefins power station,内蒙古自治区,109.6368,40.6081,600.0,2009,China Shenhua Energy Co Ltd,GCPT,0.0
+WRI1070036,Baotou Works power station,内蒙古自治区,109.7585,40.6601,200.0,2001,Baotou Iron & Steel Co Ltd,GCPT,0.0
+WRI1070773,Baqiao power station,陕西省,109.0496,34.2851,850.0,2007,Datang Shaanxi Power Generation Co Ltd,GCPT,0.0
+WRI1070727,Bayanhua Jinshan power station,内蒙古自治区,118.7082,44.9317,1200.0,2010,Jinshan Energy Co Ltd,GCPT,0.0
+WRI1070507,Beian power station,黑龙江省,126.5287,48.2328,100.0,1997,China Guodian Group Corporation,GCPT,0.0
+WRI1070616,Beihai Bebuwan power station,广西壮族自治区,109.5810,21.5821,640.0,2004,SDIC Huajing Power Holdings Ltd Electric Power Co Ltd,GCPT,0.0
+WRI1070490,Beihai New Area Heating power station,山东省,117.9726,38.0229,900.0,2014,Shandong Weiqiao Aluminum Power Co Ltd,GCPT,0.0
+WRI1075576,Beitun Cogen power station,新疆维吾尔自治区,87.7678,47.3250,270.0,2016,Xinjiang Tunfu Cogen Power Co,GCPT,0.0
+WRI1070466,Bijie power station,贵州省,105.3479,27.2765,300.0,2009,China Huadian Group Corporation,GCPT,0.0
+WRI1070718,Binzhou Heating Supply Center power station,山东省,117.8909,37.3482,780.0,2012,Shandong Weiqiao Aluminum Power Co Ltd,GCPT,0.0
+WRI1075577,Bole Cogen power station,新疆维吾尔自治区,82.1179,44.8617,300.0,2016,Xinjiang Chuxing Energy Co.,GCPT,0.0
+WRI1070035,Bulian power station,内蒙古自治区,109.9682,39.3012,1320.0,2013,China Guodian Group Corporation,GCPT,0.0
+WRI1075578,CHALCO Shandong Branch Power Station,山东省,118.0694,36.7484,138.0,2012,CHALCO Shandong Branch,GCPT,0.0
+WRI1070189,CKI Lamma power station,香港特别行政区,114.1082,22.2185,2500.0,1989,Hongkong Electric Company (HKC),GCPT,0.4
+WRI1075579,CNPC Fushun Petrochemical power station,辽宁省,124.0455,41.8275,280.0,2009,Fushun Petrochemical Company,GCPT,0.0
+WRI1070359,CPI Baicheng power station,吉林省,122.7759,45.5261,1320.0,2010,CPI Jilin Power Share Co Ltd,GCPT,0.0
+WRI1070281,CPI Changshu-1 power station,江苏省,120.9731,31.7563,3320.0,2005,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1070040,CPI Chifeng Daban power station,内蒙古自治区,118.7119,43.5893,1200.0,2013,Mengdong Energy Group Co Ltd,GCPT,0.0
+WRI1075580,CPI Chifeng New City Region power station,内蒙古自治区,118.9133,42.2934,600.0,2017,Mengdong Energy Group,GCPT,0.0
+WRI1070775,CPI Dabieshan power station,湖北省,114.8922,31.1419,1200.0,2008,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1070091,CPI Fenyi power station,江西省,114.6173,27.7754,540.0,2006,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1070423,CPI Huolinhe power station,内蒙古自治区,119.5386,45.4616,1200.0,2008,Hangzhou Jinjiang Group,GCPT,0.0
+WRI1070655,CPI Nanyang power station,河南省,112.5108,33.0306,420.0,2008,CPI Henan Electric Power Co Ltd,GCPT,0.0
+WRI1075581,CPI Ningxia Zaoquan power station,宁夏回族自治区,106.6058,38.0462,1320.0,2017,China Power Investment and Ningxia Power Generation Co.,GCPT,0.0
+WRI1070763,CPI Pingwei power station,安徽省,116.9021,32.6842,4540.0,2006,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1070525,CPI Qinghe power station,辽宁省,124.1403,42.5299,1600.0,1995,CPI Northeast Power Co Ltd,GCPT,0.0
+WRI1070821,CPI Shanxi Houma power station,山西省,111.3757,35.5911,700.0,2012,Zhangze Power,GCPT,0.0
+WRI1070592,CPI Shentou power station,山西省,112.4887,39.5508,1320.0,1998,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1070332,CPI Wusu power station,新疆维吾尔自治区,84.7608,44.4364,600.0,2011,CPI Xinjiang Energy Chemistry Group Co Ltd,GCPT,0.0
+WRI1070249,CPI Xinchang power station,江西省,115.9764,28.8612,1400.0,2010,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1070484,CPI Xining power station,青海省,101.4936,36.5847,1320.0,2015,CPI Henan Electric Power Co Ltd,GCPT,0.0
+WRI1070193,CPI Zhongwei Cogen power station,宁夏回族自治区,105.2350,37.6230,700.0,2016,,GCPT,0.0
+WRI1070274,CR Changzhou power station,江苏省,119.9921,31.9576,1260.0,2006,Guodian Changzhou Power Co Ltd,GCPT,0.0
+WRI1075582,CR Liuzhi power station,贵州省,105.3950,26.3883,1320.0,2016,China Resources Power Holdings  Chongqing Energy Investment Group,GCPT,0.0
+WRI1070736,Cangzhou Bohai power station,河北省,117.6248,38.3617,700.0,2015,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070735,Cangzhou power station,河北省,116.8168,38.3658,660.0,2007,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070480,Caofeidian Works power station,河北省,118.4927,38.9446,600.0,2009,Shougang Jingtang Iron & Steel United Co Ltd,GCPT,0.0
+WRI1070187,Castle Peak power station,香港特别行政区,113.9214,22.3760,4108.0,1986,Castle Peak Power Company Limited (CAPCO),GCPT,0.0
+WRI1075583,Changchun Southeast power station,吉林省,125.5693,43.6510,700.0,2018,CPI Jilin Power Share Co Ltd,GCPT,0.0
+WRI1070358,Changchun-2 power station,吉林省,125.3942,43.8835,1220.0,2001,Datang Jilin Power Generation,GCPT,0.0
+WRI1070357,Changchun-3 power station,吉林省,125.1429,43.7778,600.0,2009,Datang Jilin Power Generation,GCPT,0.0
+WRI1070227,Changji Fukang power station,新疆维吾尔自治区,88.0170,44.1419,270.0,2010,Huaneng Xinjiang Energy Dev Co Ltd,GCPT,0.0
+WRI1070280,Changshu-2 power station,江苏省,120.9790,31.7578,1950.0,2005,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1075584,Changxing Island Hengli Petrochemical power station,辽宁省,121.2547,39.5742,720.0,2012,Changxing Island Hengli Petrochemical (Dalian) Co.,GCPT,0.0
+WRI1075585,Changzhi Tunliu power station,山西省,112.8506,36.3653,270.0,2006,Luan Mining Industry Group Co,GCPT,0.0
+WRI1070459,Changzhi power station,山西省,113.0116,36.1926,660.0,2012,Guodian Shanxi Branch Co Ltd,GCPT,0.0
+WRI1075586,Changzhou Zhongtian Iron & Steel power station,江苏省,120.0878,31.7078,230.0,2005,Changzhou Zhongtian Iron&Steel Co,GCPT,0.0
+WRI1070526,Chaoyang Yanshanhu power station,辽宁省,120.3194,41.5065,1200.0,2012,CPI Northeast Power Co Ltd,GCPT,0.0
+WRI1070152,Chaozhou Sanbaimen power station,广东省,117.0973,23.5655,3200.0,2008,Datang International Power Generation Company,GCPT,0.0
+WRI1075587,Chengfeng Cogen power station,山西省,112.9666,36.4996,150.0,2006,Xianghuan Chengfeng Power Co,GCPT,0.0
+WRI1070384,Chifeng Yuanbaoshan power station,内蒙古自治区,119.3250,42.3033,1800.0,1994,Yuanbaoshan Power Generation Co Ltd,GCPT,0.0
+WRI1070483,China Resources Caofeidian power station,河北省,118.4877,38.9962,600.0,2016,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070031,China Resources Dengkou power station,内蒙古自治区,107.0040,40.3838,660.0,2009,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070130,China Resources Gucheng power station,河南省,114.0436,32.8720,640.0,2006,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070058,Chiping Haoji power station,山东省,116.3336,36.4865,1400.0,2013,Chiping Xinyuan Aluminum Co Ltd,GCPT,0.0
+WRI1075588,Chiping Xinfa power station,山东省,116.2456,36.6079,620.0,2002,Shandong Renping Xinfa Aluminium Co,GCPT,0.0
+WRI1070537,Chizhou Jiuhua power station,安徽省,117.5909,30.7524,600.0,2005,Chizhou Jiuhua Power Station,GCPT,0.0
+WRI1070692,Chongqing Baihe power station,重庆市,108.4561,31.2691,600.0,2004,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1075589,Chongqing Lee & Man Paper power station,重庆市,105.8550,29.0363,150.0,2008,Chongqing Lee & Man Paper Co,GCPT,0.0
+WRI1070689,Chongqing Longqiao power station,重庆市,107.3040,29.7079,400.0,2014,China Sinogy Electric Engineering Corporation,GCPT,0.0
+WRI1075590,Chongqing Nine Dragons Cogen power station,重庆市,106.3968,29.2918,180.0,2009,Chongqing Nine Dragons Paper Co,GCPT,0.0
+WRI1075591,Chongqing Qineng power station,重庆市,106.5688,29.0043,660.0,2013,Chongqing Qineng Elec & Alumn,GCPT,0.0
+WRI1070688,Chongqing Shizhu power station,重庆市,108.2201,30.3907,700.0,2014,Datang International Power Generation Company,GCPT,0.0
+WRI1070687,Chongqing Shuanghuai power station,重庆市,106.5474,30.1621,1920.0,2011,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1075592,Chuangyuan Smelter power station,内蒙古自治区,119.4275,45.4373,990.0,2017,Inner Mongolia Chuangyuan Metal Co,GCPT,0.0
+WRI1070585,Daba power station,宁夏回族自治区,105.9258,37.9897,2520.0,2001,Daba Power Station,GCPT,0.0
+WRI1070096,Dafang power station,贵州省,105.5658,27.1014,1200.0,2006,Guizhou Dafang Power company,GCPT,0.0
+WRI1070041,Daihai power station,内蒙古自治区,112.6674,40.5204,2430.0,2008,Beijing Energy Investment Holding Co Ltd,GCPT,0.0
+WRI1070038,Dalate power station,内蒙古自治区,109.9970,40.3670,3180.0,2002,North United Power Co Ltd,GCPT,0.0
+WRI1070269,Dalian ETDC power station,辽宁省,121.8157,39.0353,700.0,2010,China Guodian Group Corporation,GCPT,0.0
+WRI1070559,Dalian Ganjingzi power station,辽宁省,121.5494,39.0262,600.0,2010,CPI Northeast Power Co Ltd,GCPT,0.0
+WRI1075593,Dalian Taishan power station,辽宁省,121.5535,38.9081,270.0,2006,CPI Northeast Power Co.,GCPT,0.0
+WRI1070751,Dandong Jinshan power station,辽宁省,124.3192,40.1055,600.0,2012,Huadian Power International Company Limited,GCPT,0.0
+WRI1075594,Dangtang Shendong power station,辽宁省,123.6365,41.7566,700.0,2018,Datang Liaoning,GCPT,0.0
+WRI1070239,Daqing Ethylene Plant power station,黑龙江省,125.2246,46.4449,320.0,1986,Daqing Petroleum Group,GCPT,0.0
+WRI1070506,Daqing Oil Central power station,黑龙江省,125.0734,46.5524,900.0,1999,Daqing Petroleum Group,GCPT,0.0
+WRI1070240,Daqing Oil Hongwei power station,黑龙江省,124.8213,46.5749,200.0,2000,Daqing Petroleum Group,GCPT,0.0
+WRI1070612,Datang 803 power station,甘肃省,97.3590,40.2089,600.0,2013,Datang 803 Power Plant,GCPT,0.0
+WRI1070053,Datang Anhui Huainan Tianjiaan power station,安徽省,117.0253,32.6691,640.0,1989,Datang International Power Generation,GCPT,0.0
+WRI1070634,Datang Anyang-2 power station,河南省,114.2758,36.1195,1240.0,2003,Anyang 2 Power Station,GCPT,0.0
+WRI1070737,Datang Baoding cogen power station,河北省,115.4332,38.8753,650.0,1999,Datang Baoding Power Station,GCPT,0.0
+WRI1070784,Datang Baoji power station,陕西省,107.2942,34.3819,660.0,2009,Datang Shaanxi Power Generation Co Ltd,GCPT,0.0
+WRI1070178,Datang Binchang power station,陕西省,107.9315,35.1359,1260.0,2009,Datang Shaanxi Power Generation Co Ltd,GCPT,0.0
+WRI1070493,Datang Binzhou power station,山东省,118.0470,37.4674,700.0,2015,Datang Shandong Power Generation Co Ltd,GCPT,0.0
+WRI1070367,Datang Changshan power station,吉林省,124.4893,45.3170,660.0,2008,Datang Jilin Power Generation,GCPT,0.0
+WRI1070316,Datang Fuzhou power station,江西省,116.5638,27.7855,2000.0,2016,Datang Intl Fuzhou Power,GCPT,0.0
+WRI1070609,Datang Gangu power station,甘肃省,105.1008,34.7557,660.0,2007,Datang Gansu Power Generation Co Ltd,GCPT,0.0
+WRI1070244,Datang Harbin power station,黑龙江省,126.4655,45.7117,600.0,2009,Datang Heilongjiang Power Generation Co Ltd,GCPT,0.0
+WRI1070374,Datang Heshan power station,广西壮族自治区,108.8669,23.8218,1330.0,2003,Guangxi Guiguan Electric Power Co Ltd,GCPT,0.0
+WRI1070508,Datang Hunchun power station,吉林省,130.2891,42.8953,660.0,2002,Datang Jilin Power Generation,GCPT,0.0
+WRI1070113,Datang Hutubi power station,新疆维吾尔自治区,86.8229,44.1508,600.0,2013,Datang Xinjiang Power Generation Co Ltd,GCPT,0.0
+WRI1070368,Datang Jingtai power station,甘肃省,104.1681,37.2316,1320.0,2009,Datang Gansu Power Generation Co Ltd,GCPT,0.0
+WRI1070360,Datang Liancheng-2 power station,甘肃省,102.8682,36.5195,600.0,2004,Datang Gansu Power Generation Co Ltd,GCPT,0.0
+WRI1070441,Datang Linzhou power station,河南省,113.8627,36.1087,700.0,2011,Datang Linzhou Power Station,GCPT,0.0
+WRI1070421,Datang Lueyang power station,陕西省,106.1422,33.3467,660.0,2011,Lueyang Datang Power Generation Co Ltd,GCPT,0.0
+WRI1070446,Datang Luoyang Shouyangshan power station,河南省,112.7554,34.7325,1040.0,1991,Datang Shouyangshan Power Station,GCPT,0.0
+WRI1070439,Datang Luoyang power station,河南省,112.3777,34.6820,1045.0,2003,Datang Luoyang Power Station,GCPT,0.0
+WRI1070766,Datang Maanshan Dangtu power station,安徽省,118.4139,31.5347,1320.0,2008,Datang International Power Generation Co Ltd,GCPT,0.0
+WRI1070173,Datang Matou power station,河北省,114.4246,36.4873,1020.0,1992,Datang Matou Power Station,GCPT,0.0
+WRI1070155,Datang Nanjing Xiaguan-3 power station,江苏省,119.2096,32.2127,1320.0,2010,,GCPT,0.0
+WRI1070685,Datang Ningde power station,福建省,119.7359,26.7575,2520.0,2007,Datang Shandong Power Generation Co Ltd,GCPT,0.0
+WRI1070836,Datang Qingyuan power station,河北省,115.4810,38.7954,600.0,2012,Datang Qinqyuan Power Station,GCPT,0.0
+WRI1070009,Datang Qitaihe power station,黑龙江省,131.0536,45.7596,1900.0,2006,Datang Heilongjiang Power Generation Co Ltd,GCPT,0.0
+WRI1070676,Datang Sanmenxia power station,河南省,111.0274,34.6847,2900.0,2007,Datang Sanmenxia Power Station,GCPT,0.0
+WRI1070591,Datang Shentou power station,山西省,112.5333,39.3648,2000.0,1998,Shanxi Datang International Power Generation Co Ltd,GCPT,0.0
+WRI1070636,Datang Shuangyashan power station,黑龙江省,131.1690,46.6801,400.0,2006,Datang Heilongjiang Power Generation Co Ltd,GCPT,0.0
+WRI1070659,Datang Tuoketuo power station,内蒙古自治区,111.3589,40.1947,6720.0,2007,Tuoketuo Power Company,GCPT,0.0
+WRI1070325,Datang Weihe power station,陕西省,108.8997,34.4310,600.0,2003,Datang Shaanxi Power Generation Co Ltd,GCPT,0.0
+WRI1070835,Datang Wuan power station,河北省,114.1870,36.8184,600.0,2012,Datang Wu'an Power Station,GCPT,0.0
+WRI1070646,Datang Wushashan power station,浙江省,121.6627,29.5050,2400.0,2006,Datang International Xinyu Power Generation,GCPT,0.0
+WRI1070366,Datang Xigu power station,甘肃省,103.6228,36.1289,990.0,2004,Datang Gansu Power Generation Co Ltd,GCPT,0.0
+WRI1070131,Datang Xinyang power station,河南省,114.1406,32.1099,1940.0,2006,Datang Xinyang Power Station,GCPT,0.0
+WRI1070246,Datang Xinyu power station,江西省,114.9088,27.7763,440.0,1996,Datang International Xinyu Power Generation,GCPT,0.0
+WRI1070006,Datang Xutang power station,江苏省,117.9318,34.3486,1200.0,2002,Datang International Power Generation Co Ltd,GCPT,0.0
+WRI1070198,Datang Yungang power station,山西省,113.2192,40.0610,1040.0,2006,Shanxi Datang International Power Generation Co Ltd,GCPT,0.0
+WRI1075595,Datang Zhuzhou-2 power station,湖南省,113.4603,27.2444,1260.0,2016,Datang Hunan Huayin Elec Power,GCPT,0.0
+WRI1070449,Datong power station,山西省,113.2933,40.0279,3990.0,2001,Guodian Shanxi Branch Co Ltd,GCPT,0.0
+WRI1070760,Datun Mine power station,江苏省,116.9414,34.8684,390.0,2005,Shanghai Datun Energy Resources Co Ltd,GCPT,0.0
+WRI1070635,Dengfeng-1 power station,河南省,113.0552,34.3739,420.0,2002,Dengfeng Power Plant Group,GCPT,0.0
+WRI1070630,Dengfeng-2 power station,河南省,113.1997,34.3925,1900.0,2009,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070455,Diandong Yuwang power station,云南省,104.6172,25.1016,1200.0,2010,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070191,Diandong power station,云南省,104.6826,25.1995,2400.0,2007,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070265,Diaobingshan power station,辽宁省,123.5656,42.4940,600.0,2010,Diaobingshan Power Station,GCPT,0.0
+WRI1070478,Dingzhou power station,河北省,114.8434,38.5122,2520.0,2007,Shenhua Guohua Electric Power Corporation,GCPT,0.0
+WRI1075596,Dongfeng Captive power station,湖北省,110.7383,32.6499,180.0,1988,Dongfeng Automobile Co Ltd,GCPT,0.0
+WRI1070412,Dongfeng Xiangfan Factory power station,湖北省,112.1713,32.1219,100.0,1995,Hubei Xiangfan Dongfeng Automobile Co Ltd,GCPT,0.0
+WRI1075597,Dongtang Plant power station,广东省,113.6292,23.0800,285.0,2004,Dongguan Dongtang Industry Co,GCPT,0.0
+WRI1070714,Dongying Coastal power station,山东省,118.8581,37.4288,600.0,2012,Dongying Coastal Heating Co Ltd,GCPT,0.0
+WRI1075598,Dongying Huatai Chemical power station,山东省,118.8752,37.4090,200.0,2010,Dongying Huatai Chemical Group,GCPT,0.0
+WRI1075599,Dongyuan Tech power station,内蒙古自治区,106.6882,39.4815,200.0,2014,Inner Mongolia Dongyuan Technology Co,GCPT,0.0
+WRI1070479,Douhe power station,河北省,118.2729,39.7730,1300.0,1981,Datang Douhe Power Station,GCPT,0.0
+WRI1070260,Duolun Coal Chemical power station,内蒙古自治区,116.5770,42.2123,280.0,2010,Datang International Power Generation Co Ltd,GCPT,0.0
+WRI1070224,Dushanzi Ethene power station,新疆维吾尔自治区,84.8671,44.3791,475.0,2007,Xinjiang Dushanzi Petrochemical Co Ltd,GCPT,0.0
+WRI1075600,East Hope Metals Wucaiwan power station,新疆维吾尔自治区,89.1138,44.6885,7000.0,2014,Xinjiang East Hope Non-Ferrous Metal Co Ltd.,GCPT,0.0
+WRI1075601,Enipedia,山西省,113.0475,36.4897,60.0,,LuAn Mining Industry Group Co,GCPT,0.0
+WRI1070364,Erdaojiang power station,吉林省,126.0148,41.7797,600.0,2004,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1075602,Fangshan power station,山西省,111.1813,37.6707,100.0,2007,Huozhou Coal & Electricity Group,GCPT,0.0
+WRI1070476,Fengrun power station,河北省,118.0861,39.8061,600.0,2008,Datang Fengrun Power Station,GCPT,0.0
+WRI1075603,Fengying power station,河南省,113.3955,35.3442,120.0,,Jiaozuo Mining Group,GCPT,0.0
+WRI1070261,Fengzhen Xinfeng power station,内蒙古自治区,113.0873,40.4705,600.0,2007,Inner Mongolia Asset Management Bureau Co Ltd,GCPT,0.0
+WRI1070174,Fugu Qingshuichuan power station,陕西省,111.1190,39.2049,600.0,2016,Shaanxi Qingshuichuan Electric Co Ltd,GCPT,0.0
+WRI1070072,Fujian Hongshan power station,福建省,118.7497,24.7277,3200.0,2014,Fujian Hongshan Thermal Power,GCPT,0.0
+WRI1070266,Fushun CPI power station,辽宁省,123.9342,41.8897,600.0,2004,CPI Northeast Power Co Ltd,GCPT,0.0
+WRI1070065,Fuxi power station,四川省,104.6893,28.6660,1200.0,2012,China Power International Development Limited,GCPT,0.0
+WRI1070264,Fuxin Jinshan Power Station,辽宁省,121.4302,41.7848,600.0,2007,Fuxin Shenyang Jinshan Power Station,GCPT,0.0
+WRI1070263,Fuxin power station,辽宁省,121.6635,41.9976,1100.0,2000,CPI Northeast Power Co Ltd,GCPT,0.0
+WRI1070399,Fuyang power station,安徽省,115.8448,33.0047,1280.0,2006,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070068,Fuzhou Kemen power station,福建省,119.7621,26.3736,2400.0,2007,Huadian Fuxin Energy Co Ltd,GCPT,0.0
+WRI1070583,GEPIC Jinchang power station,甘肃省,102.0968,38.3784,1320.0,2006,GEPIC Jinchang Power Station,GCPT,0.0
+WRI1070584,GEPIC Zhangye power station,甘肃省,100.4621,39.0709,650.0,2006,GEPIC Zhangye Co Ltd,GCPT,0.0
+WRI1070098,Ganneng Fengcheng power station,江西省,115.7097,28.1997,1400.0,2007,,GCPT,0.0
+WRI1075604,Ganquanbao TBEA power station,新疆维吾尔自治区,87.7707,44.1247,700.0,2013,Tbea Xinjiang Silicon Indust,GCPT,0.0
+WRI1070611,Gansu Baiyin power station,甘肃省,104.2271,36.5295,700.0,2016,Gansu Jingyuan Coal Electricity Co Ltd,GCPT,0.0
+WRI1070610,Gansu Chongxin power station,甘肃省,106.9196,35.2796,1320.0,2010,Power Construction Corporation of China (PowerChina),GCPT,0.0
+WRI1070395,Gold Huasheng Mill power station,江苏省,120.8446,31.3062,100.0,1998,Asia Pulp & Paper (APP),GCPT,0.0
+WRI1070590,Great Waste Coal power station,山西省,112.3900,39.4133,270.0,2009,China National Coal Group (ChinaCoal),GCPT,0.0
+WRI1070533,GreenGen power station,天津市,117.7271,38.9250,250.0,2012,GreenGen Co Ltd,GCPT,0.0
+WRI1070064,Guangan power station,四川省,106.8256,30.5288,2400.0,2004,China Huadian Group Corporation,GCPT,0.0
+WRI1070022,Guangdong Huilai power station,广东省,116.5468,23.0056,3200.0,2011,Guangdong Yudean Group Co Ltd,GCPT,0.0
+WRI1070326,Guangdong Huizhou Pinghai power station,广东省,114.7419,22.6059,2000.0,2010,Guangdong Electric Power Development Co Ltd,GCPT,1.1
+WRI1070027,Guangdong Jinwan power station,广东省,113.1797,21.9691,1200.0,2007,Guangdong Electric Power Development Co Ltd,GCPT,0.0
+WRI1070089,Guangdong Shajiao power complex,广东省,113.6807,22.7489,3970.0,1992,Guangdong Guanghope Power Co Ltd,GCPT,0.0
+WRI1070082,Guangdong Shaoguan power station,广东省,113.5831,24.5852,1800.0,2011,Shaoguan Yuejiang Power Ltd,GCPT,0.0
+WRI1075605,Guangxi Luzhai power station,广西壮族自治区,109.6935,24.4560,700.0,2016,Shenhua Guohua Elec Power Corp,GCPT,0.0
+WRI1075606,Guangzhou Lixin power station,广东省,113.5650,23.0942,660.0,2012,China Power International Development  Guangzhou Development Power Group,GCPT,0.0
+WRI1070061,Guangzhou Nansha power station,广东省,113.5228,22.8635,600.0,2009,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070798,Guangzhou Refinery power station,广东省,113.4700,23.1196,240.0,2007,Sinopec Guangzhou Company,GCPT,0.0
+WRI1075607,Guangzhou Wanglong Cogen power station,广东省,113.5648,23.0929,200.0,2005,Guangzhou Power Enterprise Group,GCPT,0.0
+WRI1070305,Guangzhou Zhujiang power station,广东省,113.5678,22.8141,1280.0,1996,Guangzhou Pearl River Power Co,GCPT,0.0
+WRI1075608,Guangzhou power station,广东省,113.2243,23.1420,240.0,1989,Guangzhou Power Gen Co,GCPT,0.0
+WRI1070093,Guixi power station,江西省,117.2231,28.2891,1880.0,2004,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1070095,Guizhou Dalong power station,贵州省,109.0147,27.2954,600.0,2006,China Huadian Group Corporation,GCPT,0.0
+WRI1070100,Guizhou Faer power station,贵州省,104.7706,26.3251,2400.0,2009,Guangdong Yudean Group Company Limited,GCPT,0.0
+WRI1070443,Guodian Anshun power station,贵州省,105.6866,26.2203,1200.0,2000,Guizhou CLP Power Co (Anshun-1); China Guodian Corp (Anshun-2),GCPT,0.0
+WRI1070786,Guodian Baoji-2 power station,陕西省,107.2176,34.4980,2520.0,2006,China Guodian Group Corporation,GCPT,0.0
+WRI1070219,Guodian Baoqing power station,湖南省,111.3966,27.2021,1320.0,2012,China Guodian Group Corporation,GCPT,0.0
+WRI1070245,Guodian Beilun power station,浙江省,121.8131,29.9433,5060.0,2002,China Guodian Group Corporation,GCPT,0.0
+WRI1070545,Guodian Changyuan Jingzhou power station,湖北省,112.3086,30.2971,600.0,2000,China Guodian Group Corporation,GCPT,0.0
+WRI1070225,Guodian Dananhu power station,新疆维吾尔自治区,93.1914,42.3202,1320.0,2016,China Guodian Group Corporation,GCPT,0.0
+WRI1070574,Guodian Dawukou power station,宁夏回族自治区,106.3846,39.0360,660.0,2000,Guodian Dawukau Power Station,GCPT,0.0
+WRI1070032,Guodian Dongsheng power station,内蒙古自治区,110.0344,39.8228,660.0,2008,China Guodian Group Corporation,GCPT,0.0
+WRI1070558,Guodian Duyun power station,贵州省,107.5429,26.6304,1200.0,2012,China Guodian Corporation,GCPT,0.0
+WRI1070713,Guodian Feixian power station,山东省,117.9057,35.3197,1300.0,2007,China Guodian Group Corporation,GCPT,0.0
+WRI1075609,Guodian Guangdong Zhaoqing Dawang power station,广东省,112.8563,23.3006,700.0,2013,China Guodian Corp,GCPT,0.0
+WRI1070094,Guodian Huangjinbu power station,江西省,116.8603,28.4508,1300.0,2007,China Guodian Group Corporation,GCPT,0.0
+WRI1070502,Guodian Jiangnan power station,吉林省,126.5902,43.7942,660.0,2010,Guodian Longhua Power Co Ltd,GCPT,0.0
+WRI1070070,Guodian Jiangyin power station,福建省,119.3394,25.4393,1200.0,2007,Guodian Fujian Power Co Ltd,GCPT,0.0
+WRI1075610,Guodian Jilin power station,黑龙江省,124.0519,47.3783,1300.0,1987,Guodian Longhua Power Co Ltd,GCPT,0.0
+WRI1070641,Guodian Jingmen power station,湖北省,112.2316,31.0371,1200.0,1996,China Guodian Group Corporation,GCPT,0.0
+WRI1070369,Guodian Jingyuan power station,甘肃省,104.7625,36.7288,880.0,1990,China Guodian Group Corporation,GCPT,0.0
+WRI1070250,Guodian Jiujiang power station,江西省,116.0345,29.7404,1360.0,2001,China Guodian Group Corporation,GCPT,0.0
+WRI1070363,Guodian Jiuquan power station,甘肃省,98.5065,39.6800,660.0,2011,China Guodian Group Corporation,GCPT,0.0
+WRI1070104,Guodian Kuqa power station,新疆维吾尔自治区,82.8874,41.7381,870.0,2010,China Guodian Group Corporation,GCPT,0.0
+WRI1070700,Guodian Langfang power station,河北省,116.7695,39.4793,700.0,2016,Langfang Power Station,GCPT,0.0
+WRI1070371,Guodian Nanning power station,广西壮族自治区,108.9395,22.7891,1320.0,2015,China Guodian Group Corporation,GCPT,0.0
+WRI1070309,Guodian Penglai power station,山东省,120.5945,37.7553,660.0,2006,China Guodian Group Corporation,GCPT,0.0
+WRI1070011,Guodian Pingnan power station,黑龙江省,126.6582,45.5446,700.0,2014,China Guodian Group Corporation,GCPT,0.0
+WRI1070134,Guodian Shangqiu Minquan power station,河南省,115.2925,34.6189,1260.0,2008,Guodian Tongling Power Generation Co Ltd,GCPT,0.0
+WRI1070524,Guodian Shenyang power station,辽宁省,123.1886,41.7251,660.0,2012,China Guodian Group Corporation,GCPT,0.0
+WRI1070807,Guodian Shizuishan-2 power station,宁夏回族自治区,106.7880,39.2848,2020.0,2004,GD Power Development Co Ltd,GCPT,0.0
+WRI1070394,Guodian Suqian power station,江苏省,118.3687,33.8392,270.0,2005,China Guodian Group Corporation,GCPT,0.0
+WRI1075611,Guodian Taian power station,山东省,117.1369,36.0764,700.0,2015,Guodian Shandong Power Co,GCPT,0.0
+WRI1070626,Guodian Taizhou power station,江苏省,119.9145,32.1872,4000.0,2012,China Guodian Group Corporation,GCPT,0.0
+WRI1070776,Guodian Yongfu power station,广西壮族自治区,110.0690,25.1013,600.0,2004,China Guodian Group Corporation,GCPT,0.0
+WRI1070133,Guodian Yuyuan power station,河南省,112.5792,35.0579,300.0,2005,Guodian Tongling Power Generation Co Ltd,GCPT,0.0
+WRI1075612,Guodian Yuzhong power station,甘肃省,103.8761,36.0323,220.0,1990,China Guodian Corp,GCPT,0.0
+WRI1070474,Guodian Zhijin power station,贵州省,105.8193,26.8326,1320.0,2016,China Guodian Corporation,GCPT,0.0
+WRI1070529,Guodian Zhuanghe power station,辽宁省,123.2059,39.6766,1200.0,2007,China Guodian Group Corporation,GCPT,0.0
+WRI1070728,Guohua Hulunbeier power station,内蒙古自治区,119.7207,49.3476,1200.0,2010,Inner Mongolia Guohua Hulunbeier,GCPT,0.0
+WRI1072549,Guohua Shouguang power station,山东省,118.9069,37.2697,2000.0,2016,Shenhua Guohua Power,GCPT,0.0
+WRI1070271,Guohua Taicang power station,江苏省,121.2556,31.5877,1260.0,2006,Shenhua Guohua Electric Power Corporation,GCPT,0.0
+WRI1070085,Guohua Taishan power station,广东省,112.9228,21.8664,5000.0,2007,Shenhua Guohua Electric Power Corporation,GCPT,0.0
+WRI1070550,Guohua Xuzhou power station,江苏省,117.2560,34.3858,2000.0,2000,Shenhua Guohua Electric Power Corporation,GCPT,0.0
+WRI1070071,Guohua Zhoushan power station,浙江省,122.1850,30.1032,910.0,2009,China Guodian Group Corporation,GCPT,0.0
+WRI1075613,Haifengherui power station,四川省,105.1399,28.7160,165.0,2012,Yibin Haifengherui Co,GCPT,0.0
+WRI1070304,Hainan Southwest power station,海南省,108.6824,18.5383,700.0,2015,China Guodian Corporation,GCPT,0.0
+WRI1070177,Hancheng power station,陕西省,110.5557,35.6002,2400.0,2002,Datang Shaanxi Power Generation Co Ltd,GCPT,0.0
+WRI1070276,Hanchuan power station,湖北省,113.9173,30.6565,3260.0,2007,Guodian Changyuan Electric Power Co Ltd,GCPT,0.0
+WRI1075614,Handan Eastern Outskirt Cogen Power Station,河北省,114.6509,36.5702,700.0,2018,GD Power Development Co Ltd,GCPT,0.0
+WRI1070486,Handan power station,河北省,114.4997,36.6421,660.0,2001,GD Power Development Co Ltd,GCPT,0.0
+WRI1070487,Hanfeng power station,河北省,114.1523,36.4719,1320.0,2001,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070069,Hang Hau Longyan power station,福建省,117.1550,25.2810,600.0,2008,Shenhua Fujian Energy Co Ltd,GCPT,0.0
+WRI1070699,Hebei Longshan power station,河北省,113.6916,36.5976,1200.0,2007,Hebei Longshan Power Station,GCPT,0.0
+WRI1070669,Hebi Fenghe power station,河南省,114.1798,35.8512,1800.0,2003,Hebi Fenghe Power Generation Co Ltd,GCPT,0.0
+WRI1070540,Hefei power station,安徽省,117.2521,31.9137,1260.0,2006,Anhui Hefei United Power Generation Ltd,GCPT,0.0
+WRI1070541,Hefei-2 power station,安徽省,117.5072,31.8043,700.0,2001,Hefei 2 Power Station,GCPT,0.0
+WRI1075615,Hefeng power station,新疆维吾尔自治区,86.5936,46.6088,600.0,2012,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1075616,Heilongjiang Hegang Mining power station,黑龙江省,130.2550,47.2992,200.0,2000,Heilongjiang Hegang Mining,GCPT,0.0
+WRI1070010,Heilongjiang Qiqihar power station,黑龙江省,124.0510,47.3790,600.0,2007,Huadian Power International Company Limited,GCPT,0.0
+WRI1070817,Hejin power station,山西省,110.6558,35.6131,1300.0,2002,Zhangze Power,GCPT,0.0
+WRI1075617,Henan Aluminum power station,河南省,113.2590,34.8183,250.0,2010,Henan Branch,GCPT,0.0
+WRI1070729,Henan Hebi power station,河南省,114.2404,35.7855,270.0,2007,Henan Hebi Coal Power Co Ltd,GCPT,0.0
+WRI1075618,Henan Heqi power station,河南省,114.1855,35.7214,1320.0,2015,Henan Investment Group Co Ltd,GCPT,0.0
+WRI1070730,Henan Mengdian power station,河南省,113.8325,35.4312,600.0,2011,Henan Hebi Coal Power Co Ltd,GCPT,0.0
+WRI1075619,Henan Nengxin Cogen power station,河南省,113.8667,34.0038,420.0,2008,Henan Pingyu Coal and Electricity Co,GCPT,0.0
+WRI1070732,Henan Xinan power station,河南省,112.0631,34.7406,870.0,2007,Wanji Holding Group Co Ltd,GCPT,0.0
+WRI1070733,Henan Xinmi power station,河南省,113.5986,34.5000,2700.0,2011,Beijing Sanjili Energy Co Ltd,GCPT,0.0
+WRI1075620,Henan Yongcheng power station,河南省,116.4160,33.9541,630.0,2005,Shangqiu Yudong Power Generation,GCPT,0.0
+WRI1070077,Henan Yulian power station,河南省,113.0790,34.7967,900.0,2003,Henan Yulian Energy Group Co Ltd,GCPT,0.0
+WRI1075621,Henan Zhongmai Yongan power station,河南省,112.9314,34.6939,200.0,2005,Zhongmai Investment Group Co Ltd,GCPT,0.0
+WRI1075622,Hengfeng-2 power station,河北省,115.6012,37.7527,660.0,1996,Guodian Huabei Power,GCPT,0.0
+WRI1075623,Henglian Wucaiwan power station,新疆维吾尔自治区,89.1977,44.7896,1320.0,2017,Xinjiang Henglian Energy Co,GCPT,0.0
+WRI1070761,Hengshan Jiangsu power station,江苏省,120.1234,31.7652,115.0,2007,Jiangsu Electric Power Corp,GCPT,0.0
+WRI1070832,Hengshui Hengxing power station,河北省,115.6010,37.7527,660.0,2006,Hebei Construction Energy Investment Co Ltd,GCPT,0.0
+WRI1075624,Hengtong Chemical Power Station,山东省,118.3242,34.6268,180.0,2003,Hengtong Chemical Co.Ltd.,GCPT,0.0
+WRI1075625,Hesheng Shanshan power station,新疆维吾尔自治区,86.0984,44.4560,660.0,2016,Hesheng Silicon Industry Co,GCPT,0.0
+WRI1070795,Heshuyuan power station,广东省,116.2608,24.3924,1470.0,2009,Guangdong Baolihua New Energy Co Ltd,GCPT,0.0
+WRI1070796,Heyuan power station,广东省,114.6400,23.5670,1244.0,2008,Shenzhen Energy Group Co Ltd,GCPT,0.0
+WRI1070115,Heze Huarun power station,山东省,115.6860,35.2526,1200.0,2011,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070114,Heze power station,山东省,115.5335,35.2407,1510.0,2002,China Guodian Group Corporation,GCPT,0.0
+WRI1070375,Hezhou power station,广西壮族自治区,111.3464,24.7361,2090.0,2012,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070267,Hohhot Jinqiao power station,内蒙古自治区,111.7399,40.7085,600.0,2007,North United Power Co Ltd,GCPT,0.0
+WRI1070427,Hohhot Jinshan power station,内蒙古自治区,111.4576,40.7069,600.0,2010,North United Power Co Ltd,GCPT,0.0
+WRI1070428,Hongjun Aluminum power station,内蒙古自治区,119.6545,45.5000,1800.0,2011,Huomei Hongjun Aluminum & Power Co Ltd,GCPT,0.0
+WRI1070582,Hongyanchi-1 power station,新疆维吾尔自治区,87.6292,43.7280,660.0,2005,China Guodian Group Corporation,GCPT,0.0
+WRI1070581,Hongyanchi-2 power station,新疆维吾尔自治区,87.6576,43.7436,800.0,2002,Huadian Power International Company Limited,GCPT,0.0
+WRI1070782,Hongyang Lianyungang power station,江苏省,119.5797,34.5515,120.0,2015,Shenghong Sinopec (Lianyungang) Co Ltd,GCPT,0.0
+WRI1070734,Hongyang Nengyuan power station,辽宁省,123.2217,41.3570,600.0,2010,Liaoning Hongyang Energy Res,GCPT,0.0
+WRI1075626,Hongyuan Waste Coal Cogen power station,吉林省,126.9663,44.4196,60.0,2017,Shulan Hongyuan Waste Coal Cogen Power Company,GCPT,0.0
+WRI1070440,Houshi power station,福建省,118.1261,24.3031,4200.0,2002,Huayang Electric Power Co Ltd,GCPT,0.0
+WRI1070037,Huadian Baotou Tuyou power station,内蒙古自治区,110.6228,40.5836,1320.0,2016,China Huadian Group Corporation,GCPT,0.0
+WRI1075627,Huadian Changde power station,湖南省,111.7000,29.0310,1320.0,2015,Huadian,GCPT,0.0
+WRI1070472,Huadian Changsha power station,湖南省,112.7985,28.4877,1200.0,2007,Huadian Power International Company Limited,GCPT,0.0
+WRI1072554,Huadian Fengjie power station,重庆市,109.4473,31.1188,1200.0,2016,Huadian Power International Corporation Limited,GCPT,0.0
+WRI1070243,Huadian Fulaerji-2 power station,黑龙江省,123.5848,47.1656,1200.0,1986,Huadian Power International Company Limited,GCPT,0.0
+WRI1070063,Huadian Gongxian power station,四川省,104.6697,28.2713,1200.0,2011,China Huadian Group Corporation,GCPT,0.0
+WRI1070613,Huadian Guigang power station,广西壮族自治区,109.7656,23.1128,1200.0,2007,China Huadian Group Corporation,GCPT,0.0
+WRI1070107,Huadian Hami power station,新疆维吾尔自治区,93.4415,42.8941,270.0,2003,Huadian Power International Company Limited,GCPT,0.0
+WRI1070241,Huadian Harbin-1 power station,黑龙江省,126.6955,45.7099,950.0,2004,Huadian Power International Company Limited,GCPT,0.0
+WRI1070231,Huadian Harbin-3 power station,黑龙江省,126.6637,45.9656,1640.0,1995,Huadian Power International Company Limited,GCPT,0.0
+WRI1075628,Huadian Jiangling power station,湖北省,112.3106,30.0912,660.0,2017,Huadian Hubei Co,GCPT,0.0
+WRI1070162,Huadian Jurong power station,江苏省,119.2494,32.1949,2000.0,2016,Huadian Power International Company Limited,GCPT,0.0
+WRI1070110,Huadian Kashi power station,新疆维吾尔自治区,76.0498,39.4812,900.0,2012,Huadian Power International Company Limited,GCPT,0.0
+WRI1070341,Huadian Laizhou power station,山东省,120.0177,37.4323,2078.0,2012,Huadian Power International Company Limited,GCPT,0.8
+WRI1070334,Huadian Longkou power station,山东省,120.3132,37.6809,880.0,1990,Huadian Power International Company Limited,GCPT,0.0
+WRI1070769,Huadian Luan power station,安徽省,116.4914,31.6561,1320.0,2013,Huadian Power International Company Limited,GCPT,0.0
+WRI1075629,Huadian Luhua power station,河北省,114.3177,38.0516,660.0,2011,Hebei Huadian Shijiazhuang TPC,GCPT,0.0
+WRI1070080,Huadian Luohe power station,河南省,114.0979,33.5295,660.0,2010,Huadian Power International Company Limited,GCPT,0.0
+WRI1070809,Huadian Ningxia Lingwu power station,宁夏回族自治区,106.3463,38.1483,3320.0,2009,Huadian Power International Company Limited,GCPT,0.0
+WRI1070566,Huadian Shiliquan power station,山东省,117.5731,34.8144,2060.0,2003,Huadian Power International Company Limited,GCPT,0.0
+WRI1070589,Huadian Shuozhou power station,山西省,112.4830,39.3575,700.0,2015,Huadian Power International Company Limited,GCPT,0.0
+WRI1070054,Huadian Suzhou power station,安徽省,116.9821,33.8059,1260.0,2007,Huadian Power International Company Limited,GCPT,0.0
+WRI1070580,Huadian Turpan power station,新疆维吾尔自治区,88.6173,42.7312,270.0,2006,Huadian Power International Company Limited,GCPT,0.0
+WRI1070335,Huadian Urumqi power station,新疆维吾尔自治区,87.6975,43.9007,660.0,2009,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070283,Huadian Wangting power station,江苏省,120.4364,31.4444,1920.0,2004,Huadian Power International Company Limited,GCPT,0.0
+WRI1070569,Huadian Weifang power station,山东省,119.2632,36.6656,2000.0,2002,Huadian Power International Company Limited,GCPT,0.0
+WRI1070150,Huadian Wuda power station,内蒙古自治区,106.7344,39.4794,300.0,2005,China Huadian Group Corporation,GCPT,0.0
+WRI1070049,Huadian Wuhu power station,安徽省,118.1500,31.2376,1320.0,2012,Huadian Power International Company Limited,GCPT,0.0
+WRI1070350,Huadian Xinzhou Guangyu power station,山西省,112.7516,38.4595,970.0,2013,Huadian Xinzhou Guangyu Power Station,GCPT,0.0
+WRI1070407,Huadian Xisaishan power station,湖北省,115.1803,30.2031,2020.0,2009,China Huadian Group Corporation,GCPT,0.0
+WRI1070500,Huadian Yangling Cogen power station,陕西省,108.1188,34.2592,700.0,2016,Huadian Shaanxi Energy Co Ltd,GCPT,0.0
+WRI1070496,Huadian Yaochi Power station Unit 2,陕西省,108.0755,35.0623,200.0,2010,Huadian Shaanxi Energy Co Ltd,GCPT,0.0
+WRI1070752,Huadian Zhenxiong power station,云南省,104.9485,27.4929,1200.0,2012,Huadian Power International Company Limited,GCPT,0.0
+WRI1070380,Huadian Zhuozi power station,内蒙古自治区,112.6397,40.9221,800.0,2006,China Huadian Group Corporation,GCPT,0.0
+WRI1070289,Huadian Zibo power station,山东省,118.0532,36.7602,950.0,2007,Huadian Power International Company Limited,GCPT,0.0
+WRI1070398,Huaibei Guoan power station,安徽省,116.9357,33.8445,640.0,2000,Huaibei Guo'an Power Station,GCPT,0.0
+WRI1070534,Huaibei Hushan power station,安徽省,116.8598,33.8678,1320.0,2013,Datang International Power Generation,GCPT,0.0
+WRI1070542,Huaibei Linhuan power station,安徽省,116.5866,33.6127,1260.0,2011,Huaibei Linhuan Power Station,GCPT,0.0
+WRI1075630,Huaibei Pingshan power station,安徽省,116.8311,33.8339,1320.0,2016,Shenergy Company Ltd,GCPT,0.0
+WRI1070402,Huainan Fengtai power station,安徽省,116.6492,32.7579,2520.0,2011,Huainan Huaizhe Coal & Power,GCPT,0.0
+WRI1070538,Huainan Guqiao power station,安徽省,116.5690,32.8142,660.0,2011,Huainan Huaizhe Coal & Power,GCPT,0.0
+WRI1070768,Huainan Luohe power station,安徽省,117.0753,32.6837,2500.0,1999,Datang International Power Generation,GCPT,0.0
+WRI1070052,Huainan Tianji power station,安徽省,116.8134,32.7456,2580.0,2010,Huaihu Coal Electricity Co Ltd,GCPT,0.0
+WRI1070278,Huainan Xinzhuangzi power station,安徽省,116.8472,32.6371,300.0,2008,Huainan Mining Industry (Group) Co Ltd,GCPT,0.0
+WRI1070097,Huaneng Anyuan power station,江西省,114.0058,27.6420,1320.0,2011,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070361,Huaneng Baishan power station,吉林省,126.5795,42.0319,660.0,2011,Huaneng Jilin Power Gen Co Ltd,GCPT,0.0
+WRI1070725,Huaneng Baotou-1 power station,内蒙古自治区,109.6583,40.6567,950.0,2002,North United Power Co Ltd,GCPT,0.0
+WRI1070723,Huaneng Baotou-2 power station,内蒙古自治区,109.8913,40.6778,1000.0,1998,North United Power Co Ltd,GCPT,0.0
+WRI1070724,Huaneng Baotou-3 power station,内蒙古自治区,110.0028,40.6246,600.0,2007,North United Power Co Ltd,GCPT,0.0
+WRI1070434,Huaneng Changchun power station,吉林省,125.2201,44.0400,700.0,2010,Guodian Longhua Power Co Ltd,GCPT,0.0
+WRI1070253,Huaneng Changxing power station,浙江省,119.9625,30.9144,1320.0,2011,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070403,Huaneng Chaohu power station,安徽省,117.8225,31.6516,1200.0,2008,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070270,Huaneng Dalian power station,辽宁省,121.7244,39.0148,1400.0,1994,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070745,Huaneng Dandong power station,辽宁省,124.1457,39.8385,700.0,1998,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070237,Huaneng Daqing power station,黑龙江省,124.8470,46.7046,700.0,2013,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070715,Huaneng Dezhou power station,山东省,116.2416,37.4493,2650.0,1998,Huaneng Shandong Power Co Ltd,GCPT,0.0
+WRI1075631,Huaneng East Hailar power station,内蒙古自治区,119.8314,49.2631,150.0,1990,Huaneng Hulunbeier Energy Development Co Ltd,GCPT,0.0
+WRI1070074,Huaneng Fuzhou power station,福建省,119.4816,25.9909,2720.0,2002,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070306,Huaneng Haikou power station,海南省,110.0317,19.9595,660.0,1999,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070797,Huaneng Haimen power station,广东省,116.6553,23.1899,4144.0,2011,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070206,Huaneng Hainan East power station,海南省,108.6364,19.0494,1400.0,2010,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070232,Huaneng Hegang power station,黑龙江省,130.2990,47.0955,1200.0,2002,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070257,Huaneng Hohhot power station,内蒙古自治区,111.5977,40.7934,1100.0,2006,North United Power Co Ltd,GCPT,0.0
+WRI1070755,Huaneng Huaiyin power station,江苏省,118.9628,33.5959,1320.0,2002,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070648,Huaneng Jiaxiang power station,山东省,116.4432,35.3845,660.0,2007,Huaneng Shandong Power Co Ltd,GCPT,0.0
+WRI1070101,Huaneng Jinggangshan power station,江西省,115.0203,27.0467,1920.0,2006,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070642,Huaneng Jingmen power station,湖北省,112.2487,31.0582,700.0,2014,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070758,Huaneng Jinling power station,江苏省,119.0195,32.1716,2060.0,2010,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1075632,Huaneng Jiutai power station,吉林省,125.9280,44.1071,1340.0,2009,Huaneng Jilin Power Generation Co Ltd,GCPT,0.0
+WRI1070125,Huaneng Laiwu power station,山东省,117.6850,36.1339,2660.0,2009,Huaneng Shandong Power Co Ltd,GCPT,0.0
+WRI1070034,Huaneng Linhe power station,内蒙古自治区,107.4909,40.7826,600.0,2007,North United Power Co Ltd,GCPT,0.0
+WRI1075633,Huaneng Luntai power station,新疆维吾尔自治区,84.0036,41.8215,700.0,2016,Huaneng Xinjiang Energy Dev Co,GCPT,0.0
+WRI1070690,Huaneng Luohuang power station,重庆市,106.4339,29.3467,2640.0,2000,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070748,Huaneng Luoyang power station,河南省,112.4002,34.5825,970.0,2012,Huaneng Power International Ruiyang Co Ltd,GCPT,0.0
+WRI1075634,Huaneng Luoyuan power station,福建省,119.7643,26.4114,1320.0,2018,Huaneng Power International,GCPT,0.3
+WRI1075635,Huaneng Manzhouli Dalaihu power station,内蒙古自治区,117.6481,49.3957,400.0,2012,Huaneng Hulunbeier Energy Development,GCPT,0.0
+WRI1070420,Huaneng Manzhouli Guangming power station,内蒙古自治区,117.4090,49.5922,400.0,2009,North Hullunber Energy,GCPT,0.0
+WRI1070742,Huaneng Mianchi power station,河南省,111.8080,34.7600,700.0,2016,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1075636,Huaneng Nanjing Chemical Industrial Park power station,江苏省,118.8794,32.2020,100.0,2016,Huaneng Jiangsu Branch,GCPT,0.0
+WRI1070154,Huaneng Nanjing power station,江苏省,118.7532,32.2069,640.0,1994,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070056,Huaneng Pingliang power station,甘肃省,106.7871,35.5014,2520.0,2006,Huaneng Gansu Energy Development Co Ltd,GCPT,0.0
+WRI1070183,Huaneng Qinbei power station,河南省,112.7162,35.1679,4400.0,2009,Huaneng Power International Ruiyang Co Ltd,GCPT,0.0
+WRI1070417,Huaneng Qinling power station,陕西省,109.9381,34.5333,1200.0,1998,Huaneng Shaanxi Power Co Ltd,GCPT,0.0
+WRI1070311,Huaneng Qufu power station,山东省,116.9338,35.6078,450.0,2006,Huaneng Shandong Power Co Ltd,GCPT,0.0
+WRI1070248,Huaneng Ruijin power station,江西省,115.1019,25.9241,700.0,2008,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070839,Huaneng Shangan power station,河北省,114.1966,38.0570,2540.0,2001,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070661,Huaneng Shangdu power station,内蒙古自治区,116.0293,42.2237,3720.0,2008,North United Power Co Ltd,GCPT,0.0
+WRI1070083,Huaneng Shantou power station,广东省,116.7364,23.3252,1200.0,2000,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070273,Huaneng Taicang power station,江苏省,121.1799,31.6566,1900.0,2004,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070328,Huaneng Tongchuan power station,陕西省,108.8891,34.8494,1200.0,2007,Huaneng Shaanxi Power Co Ltd,GCPT,0.0
+WRI1075637,Huaneng Wuhai Cogen power station,内蒙古自治区,106.8297,39.7070,400.0,2005,North United Power Co Ltd,GCPT,0.0
+WRI1070255,Huaneng Wuhai Haibowan power station,内蒙古自治区,106.8650,39.3174,1060.0,2003,North United Power Co Ltd,GCPT,0.0
+WRI1070148,Huaneng Wulashan power station,内蒙古自治区,108.7674,40.6512,600.0,1998,North United Power Co Ltd,GCPT,0.0
+WRI1070238,Huaneng Xinhua Daqing power station,黑龙江省,124.6006,46.1346,530.0,1988,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070272,Huaneng Xining power station,青海省,101.6288,36.6292,700.0,2016,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070142,Huaneng Yakeshi Huiliuhe power station,内蒙古自治区,120.8357,49.2836,100.0,1993,Huaneng Hulunbeier Energy Development,GCPT,0.0
+WRI1070829,Huaneng Yangliuqing power station,天津市,117.0380,39.1512,1300.0,2002,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070408,Huaneng Yangluo power station,湖北省,114.5437,30.6931,2400.0,2000,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070288,Huaneng Yantai power station,山东省,121.3159,37.5326,590.0,1999,Huaneng Shandong Power Co Ltd,GCPT,0.0
+WRI1070639,Huaneng Yichun power station,黑龙江省,128.7506,47.7384,700.0,2015,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070381,Huaneng Yimin power station,内蒙古自治区,119.7739,48.5497,3400.0,2006,Huaneng Yimin Coal & Electric Co Ltd,GCPT,0.0
+WRI1070414,Huaneng Yingcheng power station,湖北省,113.6611,30.9149,400.0,2015,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070528,Huaneng Yingkou Coastal power station,辽宁省,122.1921,40.5815,700.0,2009,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070531,Huaneng Yingkou power station,辽宁省,122.1054,40.3042,1840.0,2003,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070282,Huaneng Yueyang power station,湖南省,113.1623,29.4498,2524.0,2005,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070649,Huaneng Yuhuan power station,浙江省,121.1398,28.1142,4200.0,2006,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070124,Huaneng Yushe power station,山西省,112.9547,36.9775,600.0,2002,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070127,Huaneng Zuoquan power station,山西省,113.3526,37.0694,1262.0,2012,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070120,Huangdao power station,山东省,120.2193,36.0390,1770.0,1999,Datang Shandong Power Generation Co Ltd,GCPT,0.0
+WRI1070482,Huanghua Cangzhou power station,河北省,117.8790,38.3094,2520.0,2007,Shenhua Guohua Electric Power Corporation,GCPT,0.0
+WRI1070181,Huangling waste coal power station,陕西省,108.9229,35.6603,700.0,2015,Huangling Mining Co Ltd,GCPT,0.0
+WRI1070532,Huangshi power station,湖北省,115.0752,30.2287,330.0,1997,China Huadian Group Corporation,GCPT,0.0
+WRI1070118,Huangtai power station,山东省,117.0880,36.7078,1360.0,1992,Huaneng Shandong Power Co Ltd,GCPT,0.0
+WRI1075638,Huantai power station,山东省,118.0399,36.9788,180.0,,Huantai County Power Plant,GCPT,0.0
+WRI1070252,Huarun Cangnan power station,浙江省,120.6630,27.4974,2000.0,2014,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070106,Huawei Hetian power station,新疆维吾尔自治区,79.9060,37.1667,270.0,2015,Huawei Hetian Power Station,GCPT,0.0
+WRI1075639,Huayi Jinlong Cogen power station,新疆维吾尔自治区,84.9699,44.4505,200.0,2016,Xinjiang Jinlong Power,GCPT,0.0
+WRI1070327,Huayin Zhuzhou power station,湖南省,113.1195,27.8581,680.0,2001,Datang Hunan Huayin Electric Power,GCPT,0.0
+WRI1070794,Huayingshan power station,四川省,107.0508,30.8882,600.0,1997,China Guodian Group Corporation,GCPT,0.0
+WRI1075640,Huaze Aluminum power station,山西省,110.6691,35.6586,600.0,2005,Shanxi Huaze Aluminum Power,GCPT,0.0
+WRI1070785,Hubei Ezhou power station,湖北省,114.6425,30.5519,1900.0,2012,Hubei Energy Group Co Ltd,GCPT,0.0
+WRI1070652,Hubei Xingfu power station,湖北省,112.6051,30.1919,180.0,2005,Hubei Xingfu Industry Co Ltd,GCPT,0.0
+WRI1075641,Huineng power station,河南省,111.0823,34.7337,270.0,2005,Sanmenxia Wanxiang Industry Co,GCPT,0.0
+WRI1070667,Huizhou Cogen power station,广东省,114.6271,22.7531,660.0,2010,Shenhua Guohua Electric Power Corporation,GCPT,0.0
+WRI1070492,Hunan Lianyuan power station,湖南省,111.8937,27.7662,600.0,2009,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070356,Hunjiang power station,吉林省,126.4524,41.9655,815.0,1998,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1070424,Huolinhe Zhanute power station,内蒙古自治区,119.5971,45.4098,2380.0,2015,Hangzhou Jinjiang Group,GCPT,0.0
+WRI1070822,Huozhou power station,山西省,111.6823,36.5183,1200.0,2003,Guodian Shanxi Branch Co Ltd,GCPT,0.0
+WRI1070182,Huxian-2 power station,陕西省,108.6185,34.0749,600.0,2005,Datang Shaanxi Power Generation Co Ltd,GCPT,0.0
+WRI1075642,Ili Nangang Khorgas Cogen power station,新疆维吾尔自治区,80.4372,44.1485,100.0,2011,Xinjiang Ili Nangang Cogen Power Co. Ltd.,GCPT,0.0
+WRI1075643,Ili Xintian Chemical power station,新疆维吾尔自治区,81.1886,44.0620,200.0,2016,Ili Xintian Coal-chemical Co.,GCPT,0.0
+WRI1075644,Inner Hangjin power station,内蒙古自治区,109.1155,39.9200,660.0,2016,Inner Mongolia Energy Generation & Investment Group,GCPT,0.0
+WRI1070141,Inner Mongolia Xilin power station,内蒙古自治区,116.1314,43.9839,600.0,2011,Inner Mongolia Energy Generation & Investment Group,GCPT,0.0
+WRI1070149,Inner Mongolia Xingan power station,内蒙古自治区,122.0225,46.0944,680.0,2016,Inner Mongolia Energy Generation & Investment Group (IMPC),GCPT,0.0
+WRI1075645,Jiamusi Zhongheng Cogen power station,黑龙江省,130.2887,46.8168,125.0,2014,Jiamusi Zhongheng Cogen Co,GCPT,0.0
+WRI1070017,Jiamusi-2 power station,黑龙江省,130.4042,46.8322,600.0,2008,Huadian Power International Company Limited,GCPT,0.0
+WRI1070756,Jianbi power station,江苏省,119.5755,32.1779,2990.0,2002,China Guodian Group Corporation,GCPT,0.0
+WRI1070759,Jiangsu Guohua Chenjiagang power station,江苏省,119.7985,34.4242,1320.0,2011,Shenhua Guohua Electric Power Corporation,GCPT,0.0
+WRI1070757,Jiangsu Guoxin Jingjiang power station,江苏省,120.3828,32.0307,1320.0,2014,Jingjiang Power Station,GCPT,0.0
+WRI1070030,Jiangsu Guoxin Yancheng power station,江苏省,120.1170,33.4002,270.0,1999,Jingjiang Power Station,GCPT,0.0
+WRI1075646,Jiangsu Jingshen Salt power station,江苏省,119.1132,33.5214,60.0,2008,Jiangsu Jingshen Salt Industry Co Ltd.,GCPT,0.0
+WRI1075647,Jiangsu Leeman Paper power station,江苏省,121.0050,31.7533,150.0,2006,Jiangsu Lee & Man Paper,GCPT,0.0
+WRI1075648,Jiangsu Nanre Thermal power station,江苏省,118.7531,32.2079,1200.0,2010,China Resources Power Holdings,GCPT,0.0
+WRI1070392,Jiangsu Nantong power station,江苏省,120.7692,32.0321,3404.0,2006,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1075649,Jiangsu OJI Paper Cogen power station,江苏省,120.9535,31.8268,80.0,2010,Jiangsu OJI Paper Co,GCPT,0.0
+WRI1070397,Jiangsu Sheyanggang power station,江苏省,120.4633,33.8185,1320.0,2012,Sheyanggang Power Gen Co Ltd,GCPT,0.0
+WRI1070548,Jiangsu Zhenjiang power station,江苏省,119.2709,32.1852,1820.0,2004,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1075650,Jiangyin Cogen power station,江苏省,120.4103,31.8436,150.0,1993,Jiangyin Cogen Power Co,GCPT,0.0
+WRI1070003,Jiangyin Sulong power station,江苏省,120.2054,31.9192,1214.0,2002,China Guodian Group Corporation,GCPT,0.0
+WRI1075651,Jiangyin Xingcheng Steel Works power station,江苏省,120.3237,31.9511,100.0,2006,Jiangyin Xingcheng Special Steel Works Co.Ltd,GCPT,0.0
+WRI1070793,Jiangyou power station,四川省,104.7679,31.8045,1260.0,1998,Sichuan Bashu Electric Power Development Co Ltd,GCPT,0.0
+WRI1070437,Jiaozuo Boai power station,河南省,113.1022,35.2210,1320.0,2013,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070744,Jiaozuo Wuzhi-1 Cogen power station,河南省,113.3883,35.1245,100.0,2006,KEPCO Power Generation Co Ltd,GCPT,0.0
+WRI1075652,Jiaxing Xinjiaaisi Cogen power station,浙江省,120.7193,30.8441,100.0,2008,Zhejiang Materials Industry Co,GCPT,0.0
+WRI1070511,Jiaxing power station,浙江省,121.1436,30.6283,5000.0,2006,Jiaxing Power Generation Co Ltd,GCPT,0.0
+WRI1070151,Jiayuguan Aluminum power station,甘肃省,98.2122,39.8461,1400.0,2014,Jisco 1 Power Station,GCPT,0.0
+WRI1075653,Jilin City Works power station,吉林省,126.5978,43.9039,100.0,1989,Jilin Petrochemical Co  Ltd,GCPT,0.0
+WRI1070432,Jinchuan Works power station,甘肃省,102.1687,38.4910,300.0,2008,Jinchuan Works Power Station,GCPT,0.0
+WRI1075654,Jinchuan power station,新疆维吾尔自治区,86.5134,42.1472,270.0,2016,Xinjiang Jinchuan Energy Investment Co,GCPT,0.0
+WRI1070102,Jingdezhen power station,江西省,117.0842,29.1866,1320.0,2006,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1070754,Jingling Sinopec power station,江苏省,118.9063,32.1541,200.0,1992,Jinling Sinopec Power Station,GCPT,0.0
+WRI1070147,Jingmei Wuhai Jinghai Waste Coal power station,内蒙古自治区,106.8622,39.6579,660.0,2010,Jingmei Wuhai Jinghai Power Station,GCPT,0.0
+WRI1070666,Jingneng Chifeng Waste Coal power station,内蒙古自治区,119.0537,42.2890,270.0,2008,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1070425,Jingneng Energy Huaning Cogen power station,内蒙古自治区,113.1600,41.0193,300.0,2007,Jingneng Energy Huaning Cogen Power Station,GCPT,0.0
+WRI1075655,Jingneng Energy Jining power station,内蒙古自治区,113.1533,41.0533,700.0,2016,Beijing Energy Group,GCPT,0.0
+WRI1075656,Jingneng Zhuozhou power station,河北省,115.9992,39.5633,350.0,2017,Jingneng Power,GCPT,0.0
+WRI1070386,Jingtai Zhungeer Suancigou power station,内蒙古自治区,111.2012,39.7121,600.0,2010,Inner Mongolia Jingtai Electric Power Generation,GCPT,0.0
+WRI1075657,Jingui Mill power station,广西壮族自治区,108.5952,21.7697,300.0,2010,Asia Pulp & Paper China,GCPT,0.0
+WRI1070376,Jingxi Xinfa Aluminum power station,广西壮族自治区,106.3854,23.2677,825.0,2011,Guangxi Xinfa Aluminium & Electricity Co Ltd,GCPT,0.0
+WRI1070438,Jingyuan-2 power station,甘肃省,104.7588,36.7300,1240.0,2001,Huajing Power Holding,GCPT,0.0
+WRI1075658,Jinhai Mill power station,海南省,109.1841,19.7726,300.0,2004,Asia Pulp & Paper China,GCPT,0.0
+WRI1075659,Jining Yangcheng power station,山东省,116.3194,35.7727,300.0,2009,Luneng Coal Power Co,GCPT,0.0
+WRI1070596,Jinneng Guojin power station,山西省,112.0027,37.3532,700.0,2016,Shanxi Guojin Power Co Ltd,GCPT,0.0
+WRI1070457,Jinsha Chayuan power station,贵州省,106.4492,27.4934,1320.0,2016,China Power International Development Limited,GCPT,0.0
+WRI1070536,Jinyuan Thermal power station,安徽省,117.2108,31.7220,50.0,2008,Jinyuan Thermal Power Plant,GCPT,0.0
+WRI1070458,Jinzhong Anping power station,山西省,113.6494,37.6430,300.0,2007,Xiyang Energy Co Ltd,GCPT,0.0
+WRI1070521,Jinzhou Datang power station,辽宁省,121.2154,41.1389,600.0,2009,Jinzhou Datang Power Station,GCPT,0.0
+WRI1070469,Jinzhushan power station,湖南省,111.4819,27.6261,1950.0,2000,Datang Hunan Huayin Electric Power,GCPT,0.0
+WRI1070606,Jisco-1 power station,甘肃省,98.3089,39.7938,850.0,2004,Jisco 1 Power Station,GCPT,0.0
+WRI1075660,Jisco-2 power station,甘肃省,98.3060,39.7941,700.0,2012,Hongcheng Co Ltd,GCPT,0.0
+WRI1070251,Jiujiang Petrochem power station,江西省,116.0632,29.7423,100.0,2012,Sinopec Jiujiang Company,GCPT,0.0
+WRI1075661,Jiulong Paper Mill Hailong power station,江苏省,121.2502,31.5913,270.0,,Hailong Paper (Taicang) Co Ltd,GCPT,0.0
+WRI1075662,Jiulong Paper Mill Jiulong power station,江苏省,121.2502,31.5913,320.0,2007,Hailong Paper (Taicang) Co Ltd,GCPT,0.0
+WRI1075663,Jiulong Paper Mill power station,广东省,113.5364,23.0351,380.0,2006,Jiulong Paper Dongguan Mill,GCPT,0.0
+WRI1070016,Jixi power station,黑龙江省,130.8650,45.3450,850.0,2008,Datang Heilongjiang Power Generation Co Ltd,GCPT,0.0
+WRI1075664,Juhua Quzhou Complex power station,浙江省,118.8792,28.8974,315.0,2002,Juhua Group Corp,GCPT,0.0
+WRI1070831,Junliangcheng power station,天津市,117.4131,39.0539,700.0,1999,Huadian Power International Company Limited,GCPT,0.0
+WRI1070146,Junzheng Wuhai power station,内蒙古自治区,106.7014,39.4643,500.0,2009,Junzheng Wuhai Power Station,GCPT,0.0
+WRI1070747,Kaidi Languang power station,河南省,113.3740,33.6135,270.0,2007,Kaidi Languang Power Station,GCPT,0.0
+WRI1070435,Kaifeng-2 power station,河南省,114.4451,34.8063,1260.0,2008,CPI Henan Electric Power Co Ltd,GCPT,0.0
+WRI1070477,Kailuan Guye power station,河北省,118.4582,39.7300,600.0,2015,Kailuan GCL Power Generation Co Ltd,GCPT,0.0
+WRI1070284,Kaiyuan power station,云南省,103.2208,23.7434,600.0,2006,Kaiyuan Power Station,GCPT,0.0
+WRI1070426,Kangbashi power station,内蒙古自治区,109.9087,39.5978,700.0,2014,Kangbashi Power Station,GCPT,0.0
+WRI1070520,Kangping power station,辽宁省,123.3658,42.7009,1200.0,2008,China Guodian Group Corporation,GCPT,0.0
+WRI1070160,Kanshan power station,江苏省,117.5773,34.4100,1200.0,2006,Jiangsu Kanshan Power Co Ltd,GCPT,0.0
+WRI1070112,Karamay power station,新疆维吾尔自治区,85.0243,45.5427,700.0,2014,Guodian Karamay Power Company,GCPT,0.0
+WRI1070419,Keyouzhongqi power station,内蒙古自治区,121.4244,44.9819,330.0,2010,Inner Mongolia Yuanyuan Energy Co Ltd,GCPT,0.0
+WRI1070705,Kuitun-2 power station,新疆维吾尔自治区,84.9285,44.4061,100.0,2002,,GCPT,0.0
+WRI1070090,Kunming power station,云南省,102.3329,25.0148,600.0,2001,Huadian Power International Company Limited,GCPT,0.0
+WRI1070378,Laibin power station,广西壮族自治区,109.1629,23.6949,1320.0,2001,Guangxi Investment Group Co Ltd,GCPT,0.0
+WRI1072552,Laicheng power station,山东省,117.6725,36.2547,1200.0,2001,Huadian Power International Corporation Limited,GCPT,0.0
+WRI1070513,Lanxi power station,浙江省,119.5068,29.1861,2400.0,2008,Zhejiang Zheneng Electric Power Co Ltd,GCPT,0.0
+WRI1070365,Lanzhou Fanjiaping power station,甘肃省,103.6774,36.0755,660.0,2011,China Guodian Group Corporation,GCPT,0.0
+WRI1070254,Lanzhou Lanlü power station,甘肃省,103.3317,36.1564,300.0,2008,Lanzhou Aluminum Corporation,GCPT,0.0
+WRI1075665,Lee & Man Paper power station,广东省,113.5898,22.9380,216.0,2007,Lee & Man Paper Manufacturing Ltd.,GCPT,0.0
+WRI1075666,Leiyang Baiyang power station,湖南省,112.8681,26.4595,120.0,2007,Guangdong Shaoguan Energy Group,GCPT,0.0
+WRI1070470,Leiyang power station,湖南省,112.8590,26.3851,1020.0,1998,Datang Hunan Huayin Electric Power,GCPT,0.0
+WRI1070344,Liaocheng Zhonghua power station,山东省,115.9094,36.4659,1200.0,2002,Shandong Zhonghua Power Co Ltd,GCPT,0.0
+WRI1070598,Liaoning Nanpiao power station,辽宁省,120.6967,41.1257,500.0,2008,Liaoning Nanpiao Inferior Coal,GCPT,0.0
+WRI1070600,Liaoning-2 power station,辽宁省,124.0902,41.9234,400.0,1991,CPI Northeast Power Co Ltd,GCPT,0.0
+WRI1070599,Liaoning-3 power station,辽宁省,124.0924,41.9222,700.0,2005,CPI Northeast Power Co Ltd,GCPT,0.0
+WRI1075667,Liaoyang Chemical power station,辽宁省,123.2373,41.2037,200.0,1996,Liaoyang Chemical Fiber Co Ltd,GCPT,0.0
+WRI1075668,Liaoyang Guocheng power station,辽宁省,123.2357,41.2068,50.0,2015,Beifang Yatai Energy Co,GCPT,0.0
+WRI1070504,Liaoyuan Datang power station,吉林省,125.1607,42.8720,660.0,2007,Datang Jilin Power Generation,GCPT,0.0
+WRI1070158,Ligang power station,江苏省,120.0764,31.9403,3960.0,2003,CITIC Limited,GCPT,0.0
+WRI1070820,Linfen power station,山西省,111.4849,36.1534,600.0,2010,Shanxi Datang International Power Generation Co Ltd,GCPT,0.0
+WRI1075669,Linyi Huasheng power station,山东省,118.3057,34.9570,405.0,2004,Huayu Aluminum Co,GCPT,0.0
+WRI1075670,Linyi Xincheng Jinluo Cogen power station,山东省,118.2952,35.2487,50.0,2017,Linyi Xincheng Jinluo Cogen Company,GCPT,0.0
+WRI1070337,Linyi power station,山东省,118.3239,35.0071,1260.0,2007,Huaneng Shandong Power Co Ltd,GCPT,0.0
+WRI1070594,Liulin Liansheng power station,山西省,110.7761,37.4079,2000.0,2008,Shanxi International Energy Co Ltd,GCPT,0.0
+WRI1070465,Liuzhou City power station,广西壮族自治区,109.3787,24.3655,440.0,1994,Guangxi Liuzhou Power Plant,GCPT,0.0
+WRI1070543,Lixin Banji power station,安徽省,116.2425,32.8972,2000.0,2016,SDIC Huajing Power Holdings Ltd,GCPT,0.0
+WRI1070340,Liyuan Cogen power station,山东省,119.0370,35.1720,700.0,2016,Shandong Xinhai Technology Co Ltd,GCPT,0.0
+WRI1070468,Liyujiang-2A power station,湖南省,113.2140,25.9428,630.0,1999,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070324,Liyujiang-2B power station,湖南省,113.1925,25.9404,1300.0,2007,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1075671,Long Chen Paper Jingzhou captive power station,湖北省,111.5907,30.2609,105.0,2017,Long Chen Paper (China) Co,GCPT,0.0
+WRI1075672,Longchuan power station,山西省,113.7041,37.7947,270.0,2008,Nanmei Group  Yangquan Coal Group,GCPT,0.0
+WRI1075673,Longgu Cogen power station,江苏省,116.8029,34.9527,110.0,2005,GCL-Poly Energy Holdings,GCPT,0.0
+WRI1070362,Longhua Baicheng power station,吉林省,122.8798,45.6331,400.0,2011,Guodian Longhua Power Co Ltd,GCPT,0.0
+WRI1070740,Longhua Yanji power station,吉林省,129.5705,42.9123,400.0,2010,Guodian Longhua Power Co Ltd,GCPT,0.0
+WRI1075674,Longsheng Cogen power station,吉林省,124.8600,43.5175,60.0,2017,Gongzhuling Shenglong Cogen Power Company,GCPT,0.0
+WRI1070702,Luanhe power station,河北省,117.7610,40.9401,990.0,2005,Luanhe Power Station,GCPT,0.0
+WRI1070701,Luannan power station,河北省,118.6465,39.4993,116.0,2000,Peak Pacific Investment Co Ltd,GCPT,0.0
+WRI1075675,Lubei power station,山东省,117.7420,38.0824,660.0,2009,Datang Shandong Power Corporation,GCPT,0.0
+WRI1070026,Luoding power station,广东省,111.6189,22.8043,270.0,2004,Guangdong Electric Power Development Co Ltd,GCPT,0.0
+WRI1075676,Luoyang Longyu Hongguang Power Station,河南省,112.1958,34.5490,165.0,2004,Luoyang Longyu Group,GCPT,0.0
+WRI1075677,Luoyang Mengjin power station,河南省,112.5307,34.8648,1200.0,2011,Shenhua Guohua Mengjin Power,GCPT,0.0
+WRI1070442,Luoyang Shoulong power station,河南省,112.7729,34.7425,110.0,2004,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070445,Luoyang Shouyangshan-3 power station,河南省,112.6840,34.7371,1260.0,2006,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070157,Lusigang power station,江苏省,121.7267,32.0577,2640.0,2010,Datang International Power Generation Co Ltd,GCPT,0.0
+WRI1070792,Luzhou Chuannan power station,四川省,105.2840,28.7755,1200.0,2008,China Huadian Group Corporation,GCPT,0.0
+WRI1075678,Maanshan Steel power station,安徽省,118.4667,31.7175,375.0,2000,Maanshan Iron & Steel Co Ltd,GCPT,0.0
+WRI1070706,Manas power station,新疆维吾尔自治区,86.1689,44.3180,1020.0,2000,Xinjiang Tianshan Power Co Ltd,GCPT,0.0
+WRI1070076,Maoming Refinery power station,广东省,110.8745,21.6737,100.0,1995,Sinopec Maoming Company,GCPT,0.0
+WRI1070057,Mawan power station,广东省,113.8720,22.4818,1840.0,1998,Shenzhen Energy Group Co Ltd,GCPT,0.0
+WRI1075679,Meixin captive power station,陕西省,108.9758,34.9653,700.0,2017,Meixin Industry Investment Co.,GCPT,0.0
+WRI1070079,Meizhou Wan power station,福建省,119.0334,25.1609,2786.0,2012,SDIC Huajing Power Holdings Co,GCPT,0.0
+WRI1075680,Mengtai Beijiao power station,内蒙古自治区,109.9844,39.8465,660.0,2015,Mengtai Coal Power Group,GCPT,0.0
+WRI1070012,Mudanjiang-2 power station,黑龙江省,129.6504,44.6571,1230.0,1996,Huadian Power International Company Limited,GCPT,0.0
+WRI1075681,Nanchang Changbei Mill power station,江西省,115.8999,28.7710,100.0,2006,Jiangxi Chenming Paper Co Ltd,GCPT,0.0
+WRI1075682,Nanhai Changhai power station,广东省,113.1428,22.9398,125.0,2005,Foshan Nanhai Changhai Cogen Co.,GCPT,0.0
+WRI1070019,Nanhai Foshan-2 power station,广东省,112.9178,22.8859,660.0,2010,Jiangsu KingSun Power Co Ltd,GCPT,0.0
+WRI1070156,Nanjing Chemical Industrial Park Cogen power station,江苏省,118.8161,32.2721,710.0,2008,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1075683,Nanjing Meishan power station,江苏省,118.6140,31.9007,110.0,2001,Meishan Iron & Steel Co  Ltd.,GCPT,0.0
+WRI1070008,Nanjing Mine power station,江苏省,117.3289,34.3733,600.0,2009,Xuzhou Mining Group Co Ltd,GCPT,0.0
+WRI1070677,Nanpu Quanzhou power station,福建省,118.9439,25.2038,1940.0,2010,Guodian Fujian Power Co Ltd,GCPT,0.0
+WRI1070285,Nanshan Aluminum Donghai power station,山东省,120.4433,37.7286,1730.0,2008,Shandong Nanshan Aluminum Co Ltd,GCPT,0.0
+WRI1075684,Nanshan Thermal power station,山东省,120.4704,37.5931,420.0,2008,Shandong Nanshan Aluminum Co,GCPT,0.0
+WRI1075685,Nantun Mine power station,山东省,116.8700,35.3761,100.0,2003,Keao Aluminum,GCPT,0.0
+WRI1075686,Nanya Cogen power station,江苏省,120.9784,31.3330,148.0,2004,Formosa Kunshan Cogen Co,GCPT,0.0
+WRI1070073,Nanyang Yahekou power station,河南省,112.6451,33.3082,1900.0,2004,Henan Investment Group Co Ltd,GCPT,0.0
+WRI1070099,Nayong-1 power station,贵州省,105.1822,26.6527,1200.0,2004,Datang Guizhou Power Generation Corporation,GCPT,0.0
+WRI1070210,Nayong-2 power station,贵州省,105.2029,26.5976,1200.0,2006,China Datang Corporation,GCPT,0.0
+WRI1070791,Neijiang Baima power station,四川省,105.0121,29.5245,900.0,2003,China Huadian Group Corporation,GCPT,0.0
+WRI1070789,Neijiang Gaoba power station,四川省,105.0846,29.5545,100.0,1996,China Huadian Group Corporation,GCPT,0.0
+WRI1075687,Ningbo Boxboard Mill power station,浙江省,121.7698,29.9630,278.0,2001,App China,GCPT,0.0
+WRI1075688,Ningbo Works power station,浙江省,121.9032,29.9126,450.0,2005,Formosa Plastics Ningbo,GCPT,0.0
+WRI1070805,Ningdong Maliantai power station,宁夏回族自治区,106.5704,38.1734,660.0,2006,Ningxia Electric Power Group Co Ltd,GCPT,0.0
+WRI1075689,Ningdong Younglight power station,宁夏回族自治区,106.6813,38.1920,660.0,2013,Ningxia Yinglight Chemical Co.,GCPT,0.0
+WRI1070515,Ninghai power station,浙江省,121.5109,29.4810,4400.0,2007,Shenhua Guohua Electric Power Co Ltd,GCPT,0.0
+WRI1075690,Ningxia Jinyuyuan Chemical power station,宁夏回族自治区,106.0220,37.8828,100.0,2006,Ningxia Jinyuyuan Chemical Group Resin Works Co,GCPT,0.0
+WRI1070808,Ningxia Liupanshan power station,宁夏回族自治区,106.2919,36.0452,660.0,2010,Ningxia Electric Power Group Co Ltd,GCPT,0.0
+WRI1075691,Ningxia Meili power station,宁夏回族自治区,105.2777,37.5124,150.0,,MCC Meili Paper Industry Co,GCPT,0.0
+WRI1070192,Ningxia Zhongning-2 power station,宁夏回族自治区,105.7060,37.5900,660.0,2006,Ningxia Zhongning-1 Power Station,GCPT,0.0
+WRI1070665,North United Power Mengxi power station,内蒙古自治区,106.7661,39.8926,600.0,2008,North United Power Co Ltd,GCPT,0.0
+WRI1075692,Ordos Junzheng power station,内蒙古自治区,106.7679,39.9041,660.0,2015,Ordos Junzheng Energy & Chemistry Co,GCPT,0.0
+WRI1070664,Ordos Power Qipanjing power station,内蒙古自治区,106.9657,39.3857,1960.0,2009,Ordos Share Holding Group,GCPT,0.0
+WRI1075693,Ordos Resources Qipanjing power station,内蒙古自治区,107.0100,39.3503,660.0,2015,Ordos High-Tech & New Material Company,GCPT,0.0
+WRI1075694,Ordos Shendong power station,内蒙古自治区,110.1518,39.3293,200.0,2007,Shendong Power,GCPT,0.0
+WRI1070211,Panbei power station,贵州省,104.5341,26.0645,600.0,2014,,GCPT,0.0
+WRI1075695,Panjin Liaohe Fortum power station,辽宁省,122.0058,41.2000,60.0,2008,Liaoning Huajin Chemical Industry （Group） Co. Ltd.,GCPT,0.0
+WRI1070739,Panjin Xinli power station,辽宁省,122.1361,41.1366,700.0,2014,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1075696,Pansan power station,安徽省,116.7428,32.8192,270.0,2008,Huainan Mining Corp,GCPT,0.0
+WRI1070828,Panshan power station,天津市,117.4628,39.9793,2260.0,2000,Panshan Power Station,GCPT,0.0
+WRI1070213,Panxian-1 power station,贵州省,104.5161,26.0106,1320.0,2006,Guizhou Power Generation Co Ltd,GCPT,0.0
+WRI1070212,Panxian-2 power station,贵州省,104.5924,25.4692,2400.0,2006,Guangdong Yudean Group Company Limited,GCPT,0.0
+WRI1075697,PetroChina Jinxi Refinery power station,辽宁省,120.8084,40.7470,100.0,2002,Jinxi Refinery Plant,GCPT,0.0
+WRI1070654,Pingdingshan Luyang power station,河南省,113.0146,33.8211,2060.0,2010,CPI Henan Electric Power Co Ltd,GCPT,0.0
+WRI1075698,Pingdingshan Ruiping power station,河南省,112.8184,34.1168,270.0,2007,Henan Pingyu Coal and Electricity Co,GCPT,0.0
+WRI1070778,Pingguo Aluminum power station,广西壮族自治区,107.5104,23.3390,90.0,2005,Aluminum Corporation of China (CHALCO),GCPT,0.0
+WRI1070103,Pingshi power station,广东省,113.0655,25.2589,600.0,2007,Pingshi power station,GCPT,0.0
+WRI1070126,Pingshuo Gangue power station,山西省,112.3225,39.4726,700.0,2008,,GCPT,0.0
+WRI1070608,PowerChina Huating power station,甘肃省,106.5689,35.1953,290.0,2006,Power Construction Corporation of China (PowerChina),GCPT,0.0
+WRI1070668,Pucheng power station,陕西省,109.8000,34.9783,2580.0,2004,Shaanxi Huadian Pucheng Co Ltd,GCPT,0.0
+WRI1070656,Puqi Xianning power station,湖北省,113.8734,29.6653,2600.0,2011,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070522,Pushan-5 power station,河南省,112.5552,33.0990,250.0,1998,Meiya Power Co Ltd,GCPT,0.0
+WRI1075699,Puyang Longfeng power station,河南省,115.2547,35.7695,600.0,2017,Henan Investment Group Co Ltd,GCPT,0.0
+WRI1070132,Puyang Pangking power station,河南省,114.9838,35.7528,420.0,2006,China Guodian Group Corporation,GCPT,0.0
+WRI1070519,Qianbei power station,贵州省,106.2582,27.4757,1200.0,2002,Guizhou Electric Power Corporation,GCPT,0.0
+WRI1075700,Qiandong power station,贵州省,108.7704,27.1251,1200.0,2008,China Power International Development,GCPT,0.0
+WRI1070216,Qianxi power station,贵州省,106.1261,27.0512,1860.0,2010,Guizhou Electric Power Corporation,GCPT,0.0
+WRI1070624,Qiaotou power station,青海省,101.7062,36.9147,270.0,1999,Qinghai Aluminium Co Ltd,GCPT,0.0
+WRI1075701,Qilu Works power station,山东省,118.2131,36.7852,490.0,1992,Sinopec Qilu Co,GCPT,0.0
+WRI1070310,Qingdao power station,山东省,120.3291,36.1123,1200.0,2001,Huadian Power International Company Limited,GCPT,0.0
+WRI1070619,Qinghai Datong power station,青海省,101.7061,36.9147,600.0,2006,,GCPT,0.0
+WRI1075702,Qinghai Wanxiang A&M power station,青海省,101.4945,36.5849,700.0,,Tianrui Group Co Ltd,GCPT,0.0
+WRI1070553,Qingshan power station,湖北省,114.4368,30.6288,1030.0,1997,China Guodian Group Corporation,GCPT,0.0
+WRI1075703,Qingshuihe captive power station,贵州省,104.8661,25.2818,750.0,2015,Xingyi Yangguang Assets Mgmt,GCPT,0.0
+WRI1075704,Qingtongxia Aluminum Works power station,宁夏回族自治区,105.9113,37.9238,660.0,2010,CPI Ningxia Energy Aluminum,GCPT,0.0
+WRI1070704,Qinhuangdao-2 power station,河北省,119.6433,39.9456,1630.0,1999,Hebei Construction Energy Investment Co Ltd,GCPT,0.0
+WRI1070067,Qudong power station,河南省,113.8522,35.2446,660.0,2012,Huadian Power International Company Limited,GCPT,0.0
+WRI1070088,Qujing power station,云南省,104.0667,25.6618,1200.0,2000,Yunnan Coal Chemical Industry Group Co Ltd,GCPT,0.0
+WRI1070416,Qunsheng power station,陕西省,109.9308,35.1502,100.0,2006,Shaanxi Yinhe Yulin Power Generation,GCPT,0.0
+WRI1070842,Renqiu power station,河北省,116.1533,38.7453,700.0,2013,Hebei Construction Energy Investment Co Ltd,GCPT,0.0
+WRI1075705,Rizhao Iron and Steel Cogen power station,山东省,119.3666,35.1562,660.0,2013,Rizhao Steel Holding Group,GCPT,0.0
+WRI1070312,Rizhao power station,山东省,119.5111,35.3450,2060.0,2006,Huaneng Shandong Power Co Ltd,GCPT,0.0
+WRI1075706,Ronghai power station,山西省,112.9665,36.4998,270.0,2007,Luan Mining Industry Group Co,GCPT,0.0
+WRI1075707,Ruiming power station,广东省,113.4966,23.0791,250.0,1996,Guangzhou Huangdian Industrial Co,GCPT,0.0
+WRI1070226,SDIC Dananhu power station,新疆维吾尔自治区,93.3519,42.3055,1320.0,2014,SDIC Hami Energy Co Ltd,GCPT,0.0
+WRI1070819,SDIC Jincheng power station,山西省,112.9255,35.4605,600.0,2011,Xiyang Energy Co Ltd,GCPT,0.0
+WRI1070777,SDIC Qinzhou power station,广西壮族自治区,108.6250,21.7012,3360.0,2013,SDIC Huajing Power Holdings Ltd,GCPT,0.0
+WRI1070329,SDIC Yili Yining Cogen power station,新疆维吾尔自治区,81.2211,43.9263,660.0,2012,SDIC Hami Energy Co Ltd,GCPT,0.0
+WRI1070259,SGCC Ewenki power station,内蒙古自治区,119.9407,48.7296,1200.0,2012,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070663,Salaqi power station,内蒙古自治区,110.5647,40.5334,600.0,2011,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070841,Sanhe Yanjiao power station,河北省,116.8487,39.9528,1300.0,2003,CSEC Guohua International Power Co Ltd,GCPT,0.0
+WRI1070802,Sanshui Hengyi power station,广东省,112.8436,23.0178,1200.0,2011,Foshan Public Utilities Holding Co Ltd,GCPT,0.0
+WRI1075708,Shaanxi Beiyuan power station,陕西省,110.1665,38.7366,500.0,2011,Beiyuan Chemical Group,GCPT,0.0
+WRI1075709,Shaanxi Youser Yulin power station,陕西省,109.7282,38.2158,1650.0,2013,Shaanxi Non-Ferrous Metals Holding Group Co.,GCPT,0.0
+WRI1070840,Shahe power station,河北省,114.3243,36.8535,1200.0,2013,Hebei Construction Energy Investment Co Ltd,GCPT,0.0
+WRI1075710,Shandong Chenming Mill power station,山东省,118.7001,36.8592,255.0,2009,Shandong Chenming Paper Holdings,GCPT,0.0
+WRI1070060,Shandong Haihua Weifang power station,山东省,119.0328,37.1305,150.0,2011,Shandong Haihua Weifang Power Station,GCPT,0.0
+WRI1075711,Shandong Hualu Hengsheng power station,山东省,116.2430,37.4623,174.0,2002,Shandong Hualu Hengsheng Chemical Co,GCPT,0.0
+WRI1075712,Shandong Huatai power station,山东省,118.4905,37.0091,270.0,2013,Shandong Huatai Paper Co Ltd,GCPT,0.0
+WRI1075713,Shandong Jinling power station,山东省,118.1751,36.8499,100.0,2006,Shandong Jinling Mining Co Ltd,GCPT,0.0
+WRI1075714,Shandong Xingda Cogen power station,山东省,118.6441,37.5858,360.0,2016,Shandong Xingda New Energy Co Ltd,GCPT,0.0
+WRI1075715,Shandong Zhongtai power station,山东省,117.6958,35.8581,300.0,2007,Huaneng Shandong Power Co Ltd,GCPT,0.0
+WRI1070021,Shanghai Caojing power station,上海市,121.4008,30.7607,2000.0,2010,Shanghai Electric Group Company Limited,GCPT,0.0
+WRI1075716,Shanghai Gaoqiao power station,上海市,121.5665,31.3253,150.0,1979,Gaoqiao Petrochemical Co,GCPT,0.0
+WRI1070166,Shanghai Jinshan-1 power station,上海市,121.2777,30.6984,250.0,,Shanghai Petrochemical Company (SPC),GCPT,0.0
+WRI1075717,Shangwan Cogen power station,内蒙古自治区,110.1905,39.2885,300.0,2009,Shendong Power Shendong Thermal Power Company,GCPT,0.0
+WRI1070799,Shanwei Haifeng power station,广东省,115.0426,22.7545,2000.0,2015,China Resources Power Holdings Co Ltd,GCPT,2.0
+WRI1070084,Shanwei Honghaiwan power station,广东省,115.5543,22.7061,2520.0,2010,Guangdong Electric Power Development Co Ltd,GCPT,0.0
+WRI1070379,Shanxi Guofeng power station,山西省,111.7347,37.2278,600.0,2015,Shanxi International Electricity Group Co Ltd,GCPT,0.0
+WRI1070194,Shanxi Guojin power station,山西省,112.2322,37.5476,600.0,2015,Shanxi International Electricity Group Co Ltd,GCPT,0.0
+WRI1070593,Shanxi Ruiguang power station,山西省,112.7200,37.7843,660.0,2012,Shanxi International Energy Co Ltd,GCPT,0.0
+WRI1070347,Shanxi Yaoguang power station,山西省,112.2895,37.2193,400.0,2012,Shanxi International Electricity Group Co Ltd,GCPT,0.0
+WRI1070122,Shanxi Yuguang power station,山西省,112.7998,39.6166,600.0,2015,Shanxi Yuguang Power Station,GCPT,0.0
+WRI1075718,Shaoguan Wastecoal power station,广东省,113.5526,24.9354,700.0,2017,Guangdong Yuehua Power Co,GCPT,0.0
+WRI1070518,Shaoxing Binhai power station,浙江省,120.7176,30.2269,800.0,2013,Zhejiang Zheneng Electric Power Co Ltd,GCPT,0.0
+WRI1075719,Shendong Baode power station,山西省,111.1037,38.9443,270.0,2006,China Shenhua Energy Co Ltd,GCPT,0.0
+WRI1070815,Shendong Hequ power station,山西省,111.2440,39.4125,700.0,2015,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070196,Shenery Wuzhong power station,宁夏回族自治区,106.1396,37.9374,700.0,2016,,GCPT,0.0
+WRI1075720,Shengle Cogen power station,内蒙古自治区,111.8639,40.5637,700.0,2016,Beijing Energy Investment Holding,GCPT,0.0
+WRI1070314,Shengli Dongying power station,山东省,118.5243,37.4013,1700.0,2004,Shengli Petrolium Administration,GCPT,0.0
+WRI1070601,Shenhai power station,辽宁省,123.4939,41.8158,600.0,1991,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070404,Shenhua Anqing power station,安徽省,117.1717,30.5411,2640.0,2013,Shenhua Anqing Power Station,GCPT,0.0
+WRI1075721,Shenhua Fugu Guojiawan power station,陕西省,110.4066,39.2226,600.0,2010,Shendong Power,GCPT,0.0
+WRI1070175,Shenhua Fugu power station,陕西省,110.7858,39.2092,1200.0,2008,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070422,Shenhua Guohua Jinjie power station,陕西省,110.1661,38.7365,2400.0,2007,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070223,Shenhua Guoneng Dananhu Power Plant,新疆维吾尔自治区,93.4452,42.7409,600.0,2011,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070228,Shenhua Guoneng Fukang power station,新疆维吾尔自治区,87.8344,44.1339,300.0,2008,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1075722,Shenhua Guoneng Hami power station,新疆维吾尔自治区,93.0092,42.4112,2640.0,2015,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070816,Shenhua Hequ power station,山西省,111.1852,39.3829,2400.0,2008,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070436,Shenhua Jinjiang power station,福建省,118.4530,24.6854,100.0,2006,Fujian Energy Group Co Ltd,GCPT,0.0
+WRI1075723,Shenhua Jiujiang power station,江西省,116.3760,29.8266,2104.0,2018,Shenhua Guohua Elec Power Corp Jiangxi Branch,GCPT,0.0
+WRI1070811,Shenhua Lingzhou power station,宁夏回族自治区,106.5665,38.1419,270.0,2006,Shandong Luneng Group Co Ltd,GCPT,0.0
+WRI1070430,Shenhua Shenmu power station,陕西省,110.4584,38.9662,1530.0,2013,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070696,Shenhua Wanzhou power station,重庆市,108.3990,30.6777,2000.0,2015,Shenhua Guohua Electric Power Corporation,GCPT,0.0
+WRI1070144,Shenhua Wuhai Xilaifeng power station,内蒙古自治区,106.8927,39.3700,400.0,2010,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070382,Shenhua Yili power station,内蒙古自治区,109.9730,40.3614,800.0,2008,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070195,Shenhua Yuanyang Lake power station,宁夏回族自治区,106.6910,38.0569,1320.0,2010,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070333,Shenhua Zhundong Wucaiwan power station,新疆维吾尔自治区,89.1498,44.7955,700.0,2015,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070387,Shenhua Zhunneng power station,内蒙古自治区,111.2679,39.8279,960.0,2009,Beijing Energy Investment Holding Co Ltd,GCPT,0.0
+WRI1070343,Shenhuo Zhundong power station,新疆维吾尔自治区,88.5887,44.0810,1400.0,2013,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1075724,Shenmu Jieneng power station,陕西省,110.2378,39.0121,200.0,2012,Shenmu Energy Development Co,GCPT,0.0
+WRI1075725,Shenneng Korla power station,新疆维吾尔自治区,86.2632,41.6642,700.0,2017,Shenneng Korla Power Co.,GCPT,0.0
+WRI1070164,Shidongkou power station,上海市,121.4048,31.4651,3820.0,1997,China Huaneng Group Corporation (CHNG),GCPT,0.0
+WRI1070315,Shiheng-2 power station,山东省,116.5136,36.2122,1890.0,1998,Shandong Zhonghua Power Co Ltd,GCPT,0.0
+WRI1070708,Shihezi Tianhe power station,新疆维吾尔自治区,86.0997,44.4409,660.0,2012,Shihezi Tianhe Power Station,GCPT,0.0
+WRI1075726,Shijiazhuang Dongfang-2 Cogen power station,河北省,114.4851,38.0943,100.0,,CPI Hebei Power,GCPT,0.0
+WRI1070837,Shijiazhuang Liangcun power station,河北省,114.6934,38.0060,660.0,2011,CPI hebei Power,GCPT,0.0
+WRI1070139,Shimen power station,湖南省,111.3940,29.5786,1200.0,2001,Huadian Power International Company Limited,GCPT,0.0
+WRI1075727,Shouguang Jvneng Cogen Power Station,山东省,118.7706,36.8730,310.0,2006,Shouguang Jvneng Cogen Development Co,GCPT,0.0
+WRI1070498,Shuangliao West power station,吉林省,123.4630,43.5282,2060.0,2003,Guodian Longhua Power Co Ltd,GCPT,0.0
+WRI1070637,Shuangyashan power station,黑龙江省,131.6684,46.5629,2040.0,2000,China Guodian Group Corporation,GCPT,0.0
+WRI1070804,Shuidonggou power station,宁夏回族自治区,106.5439,38.2143,1200.0,2011,Beijing Energy Investment Holding Co Ltd,GCPT,0.0
+WRI1070087,Shunde Desheng power station,广东省,113.3587,22.7993,600.0,2008,China Power International Development Ltd (CPIC),GCPT,0.0
+WRI1075728,Sichuan Emeishan power station,四川省,103.5875,29.4815,270.0,2004,Emeishan Aluminum (Group) Co,GCPT,0.0
+WRI1075729,Singpu Chemicals Taixing power station,江苏省,119.9209,32.1524,160.0,2012,Singpu Chemicals Ltd,GCPT,0.0
+WRI1070405,Sinopec Anqing power station,安徽省,117.0190,30.5135,200.0,1995,China Petroleum & Chemical Corporation Limited (SINOPEC),GCPT,0.0
+WRI1075730,Sinopec Luoyang Branch power station,河南省,112.5954,34.9188,160.0,2005,Sinopec Luoyang Branch,GCPT,0.0
+WRI1070190,Sinopec Yangzi power station,江苏省,118.7945,32.2534,360.0,1987,Sinopec Yangzi Power Station,GCPT,0.0
+WRI1070781,Sinopec Yizheng Plant power station,江苏省,119.1061,32.2764,240.0,1986,Sinopec Yizheng Power Station,GCPT,0.0
+WRI1070499,Siping power station,吉林省,124.4025,43.1530,550.0,2007,CPI Jilin Power Share Co Ltd,GCPT,0.0
+WRI1075731,Songhuajiang power station,吉林省,126.5038,43.9085,730.0,2009,CPI Jilin Power Share Co Ltd,GCPT,0.0
+WRI1070527,Suizhong power station,辽宁省,120.0089,40.0793,3760.0,2005,CSEC Guohua Intl Power Co Ltd,GCPT,0.0
+WRI1070602,Sujiatun Jinshan power station,辽宁省,123.3307,41.6814,440.0,2010,Jinshan Energy Stock Co Ltd,GCPT,0.0
+WRI1070779,Suyuan power station,广西壮族自治区,106.8100,23.8194,150.0,2015,Guangxi Suyuan Investment Co Ltd,GCPT,0.0
+WRI1070389,Suzhou Dongwu Cogen power station,江苏省,120.7633,31.2551,50.0,2004,Suzhou Dongwu Cogeneration Co Ltd,GCPT,0.0
+WRI1070771,Suzhou Huiyuan power station,安徽省,116.9823,33.6546,700.0,2008,China Guodian Group Corporation,GCPT,0.0
+WRI1075732,Suzhou Susheng Cogen power station,江苏省,120.6720,30.9022,110.0,2005,Jiangsu Susheng Cogen Power Co,GCPT,0.0
+WRI1070627,Taicanggang power station,江苏省,121.2566,31.5877,1300.0,2004,Taicang GCL Power Co Ltd,GCPT,0.0
+WRI1075733,Taiyang Mill power station,山东省,116.7983,35.5345,340.0,2008,Shandong Sunshine Paper Co. Ltd.,GCPT,0.0
+WRI1075734,Taiyuan Steel Mill power station,山西省,112.5378,37.9194,600.0,2010,Shanxi Taigang Stainless Steel Co.Ltd,GCPT,0.0
+WRI1070588,Taiyuan-2 power station,山西省,112.5190,37.9870,1260.0,2006,Shanxi Datang International Power Generation Co Ltd,GCPT,0.0
+WRI1075735,Tangshan Sanyou Cogen power station,河北省,118.1893,39.2619,150.0,2008,Tangshan Sanyou Chemical Industry Co Ltd.,GCPT,0.0
+WRI1070806,Tangshan Wangtan power station,河北省,118.9734,39.2002,1200.0,2005,Datang Wangtan Power Station,GCPT,0.0
+WRI1070218,Tangzhai power station,贵州省,106.2656,26.8295,1200.0,2012,China Huadian Group Corporation,GCPT,0.0
+WRI1070577,Tashdian power station,新疆维吾尔自治区,86.3388,41.8038,250.0,2012,Huaneng Xinjiang Energy Dev Co Ltd,GCPT,0.0
+WRI1070563,Tengzhou Fuyuan Cogen power station,山东省,117.1157,34.9250,48.0,2005,Tengzhou Fuyuan Co Ltd,GCPT,0.0
+WRI1070564,Tengzhou Xinyuan power station,山东省,117.1204,35.0676,930.0,2005,Huadian Tengzhou Xinyuan Thermal Power Co Ltd,GCPT,0.0
+WRI1075736,Tianchi Changji Cogen power station,新疆维吾尔自治区,87.1720,44.0044,700.0,2017,Xinjiang Tianchi Energy Sources & Datang Xinjiang,GCPT,0.0
+WRI1070562,Tiandong Kamshing power station,广西壮族自治区,107.1311,23.6485,270.0,2011,Tiandong Kamshing Chemical Co Ltd,GCPT,0.0
+WRI1075737,Tianfu East power station,新疆维吾尔自治区,86.1050,44.3073,405.0,2011,Xinjiang Tianfu Thermoelectric,GCPT,0.0
+WRI1070709,Tianfu North power station,新疆维吾尔自治区,86.0940,44.4404,1320.0,2017,Tianfu North Power Station,GCPT,0.0
+WRI1075738,Tianfu Shihutan cogen power station,新疆维吾尔自治区,86.0737,44.5850,100.0,2011,Xinjiang Tianfu Thermoelectric,GCPT,0.0
+WRI1070710,Tianfu South power station,新疆维吾尔自治区,86.1080,44.2593,910.0,2012,Tianfu South Power Station,GCPT,0.0
+WRI1075739,Tianfu West power station,新疆维吾尔自治区,86.0449,44.3586,505.0,2011,Xinjiang Tianfu Thermoelectric Co Ltd,GCPT,0.0
+WRI1070607,Tianjin Beijiang power station,天津市,117.9293,39.2193,3000.0,2012,SDIC Huajing Power Holdings Co Ltd,GCPT,0.0
+WRI1070825,Tianjin Dagang power station,天津市,117.4940,38.7765,1312.0,1998,Shenhua Guoneng Energy Group,GCPT,0.0
+WRI1070827,Tianjin Guodian Beitang power station,天津市,117.6442,39.0964,700.0,2014,Tianjin Northeast Power Station,GCPT,0.0
+WRI1070830,Tianjin Northeast power station,天津市,117.3544,39.2168,660.0,2009,Tianjin Northeast Power Station,GCPT,0.0
+WRI1075740,Tianjin Petrolchemical captive power station,天津市,117.4209,38.8195,300.0,2010,Tianjin Petrolchemical,GCPT,0.0
+WRI1070109,Tianlong Mining Fukang Smelting power station,新疆维吾尔自治区,88.3733,44.0992,400.0,2013,Tianlong Mining Fukang Smelting Power Station,GCPT,0.0
+WRI1075741,Tianshan Qitai power station,新疆维吾尔自治区,89.6509,44.0516,700.0,2016,Xinjiang Tianshan Power Qitai Energy Co,GCPT,0.0
+WRI1070629,Tianshenggan power station,江苏省,120.7526,32.0349,660.0,1997,Nantong Tianshenggang Power Co Ltd,GCPT,0.0
+WRI1070042,Tianye power station,新疆维吾尔自治区,86.0475,44.3562,1800.0,2011,Tianye Power Station,GCPT,0.0
+WRI1070570,Tianyuan Shandong power station,山东省,117.8757,37.0532,600.0,2010,Shandong Tianyuan Thermoelectric,GCPT,0.0
+WRI1070603,Tieling power station,辽宁省,123.8030,42.3450,2520.0,2002,Jinshan Energy Stock Co Ltd,GCPT,0.0
+WRI1075742,Toksun Mahatma power station,新疆维吾尔自治区,87.9606,42.8187,600.0,2012,Xinjiang Mahatma Energy Co Ltd,GCPT,0.0
+WRI1070352,Tonghua Xuangang power station,山西省,112.4774,38.9146,1320.0,2010,Shanxi Zhangze Electric Power Co Ltd,GCPT,0.0
+WRI1070660,Tongliao power station,内蒙古自治区,122.1543,43.6704,1670.0,1997,Mengdong Energy Group,GCPT,0.0
+WRI1070050,Tongling Guodian power station,安徽省,117.9634,31.0711,1200.0,2008,Guodian Tongling Power Generation Co Ltd,GCPT,0.0
+WRI1070048,Tongling Wanneng power station,安徽省,117.7644,30.8818,2600.0,2009,Anhui Tongling Power Generation Co Ltd,GCPT,0.0
+WRI1070202,Tongmei Datang power station,山西省,113.1859,39.9796,660.0,2014,Shanxi Zhangze Electric Power Co Ltd,GCPT,0.0
+WRI1075743,Tongmei Tashan power station,山西省,113.1887,39.9792,2520.0,2012,Zhangze Power,GCPT,0.0
+WRI1070353,Tongmei Yongji power station,山西省,110.4707,34.8558,1300.0,2006,Shanxi Zhangze Electric Power Co Ltd,GCPT,0.0
+WRI1070215,Tongzi power station,贵州省,106.8464,28.1297,1200.0,2013,China Huadian Group Corporation,GCPT,0.0
+WRI1070275,UPM Changshu power station,江苏省,121.0051,31.7535,100.0,1999,UPM Changshu Paper Mill,GCPT,0.0
+WRI1070657,Ulanhot Xingan-2 power station,内蒙古自治区,122.0611,46.0508,100.0,2008,North United Power Co Ltd,GCPT,0.0
+WRI1075744,United Laboratories Linhe power station,内蒙古自治区,107.5092,40.8137,600.0,,United Laboratories Inner Mongolia Co,GCPT,0.0
+WRI1075745,Urumqi Petrochemical power station,新疆维吾尔自治区,87.7219,43.9702,150.0,2001,PetroChina Co Ltd,GCPT,0.0
+WRI1075746,Urumuqi Huanpeng power station,新疆维吾尔自治区,87.1708,43.2728,60.0,2009,Urumuqi Huanpeng Co Ltd.,GCPT,0.0
+WRI1070764,WEnergy Maanshan Power Station,安徽省,118.4797,31.7375,2640.0,2005,Anhui Tongling Power Generation Co Ltd,GCPT,0.0
+WRI1070544,WISCO Qingshan power station,湖北省,114.4654,30.6387,440.0,1996,Wuhan Iron & Steel Co Ltd (WISCO),GCPT,0.0
+WRI1070165,Waigaoqiao power station,上海市,121.6003,31.3536,5240.0,2004,Shanghai Electric Group Company Limited,GCPT,0.0
+WRI1070587,Wangping power station,山西省,112.9252,39.7637,440.0,2011,Shanxi Zhangze Electric Power Co Ltd,GCPT,0.0
+WRI1070597,Wangqu power station,山西省,113.1921,36.3485,1200.0,2006,Shendong Hequ Power Station,GCPT,0.0
+WRI1075747,Wanjie Gaoke Boshan Cogen power station,山东省,117.8435,36.4745,70.0,2000,Shandong Wanjie Gaoke Co,GCPT,0.0
+WRI1070695,Wansheng power station,重庆市,106.7757,28.8401,600.0,2006,China Guodian Group Corporation,GCPT,0.0
+WRI1070066,Wanyuan power station,四川省,107.4914,31.3245,600.0,2008,Sichuan Prov Invest Group Co Ltd,GCPT,0.0
+WRI1075748,Weihai Cogen power station,山东省,122.0792,37.5125,210.0,2005,Weihai Cogen Power Group,GCPT,0.0
+WRI1070567,Weihai power station,山东省,122.2072,37.4499,1960.0,2005,Huaneng Shandong Power Co Ltd,GCPT,0.0
+WRI1070501,Weihe-2 power station,陕西省,108.9113,34.4284,1200.0,1994,Shaanxi Weidian Co Ltd,GCPT,0.0
+WRI1075749,Weihua Cogen power station,山东省,118.1563,37.7053,100.0,2016,Weihua Cogen Power Co,GCPT,0.0
+WRI1075750,Weilai Energy & Chemical captive power station,陕西省,109.4891,38.2334,150.0,2016,Weilai Energy & Chemical Co,GCPT,0.0
+WRI1075751,Weinan Factory power station,陕西省,109.4308,34.4977,100.0,1996,Weihe Fertilizer Co,GCPT,0.0
+WRI1070045,Weiqiao Huji power station,山东省,117.7772,37.3588,2640.0,2015,Weiqiao Huimin New Material Co Ltd,GCPT,0.0
+WRI1070572,Weiqiao Town Public Heating power station,山东省,117.4838,37.0255,1320.0,2013,Weiqiao Huimin New Material Co Ltd,GCPT,0.0
+WRI1070571,Weiqiao Yangxin power station,山东省,117.5986,37.5765,1320.0,2015,Weiqiao Aluminum Co Ltd,GCPT,0.0
+WRI1075752,Weiqiao Zhanhua power station,山东省,117.9712,38.0226,700.0,2015,Weiqiao Huihong New Material Co.,GCPT,0.0
+WRI1075753,Weiqiao Zouping-1 power station,山东省,117.7854,36.9107,2640.0,2016,Shandong Hongqiao Limited,GCPT,0.0
+WRI1075754,Weiqiao Zouping-3 power station,山东省,117.7741,36.9077,1200.0,2008,Shandong Weiqiao Aluminum & Power Co Ltd,GCPT,0.0
+WRI1070291,Weiqiao Zouping-6 power station,山东省,117.7844,36.8979,2640.0,2014,Shandong Weiqiao Aluminum Power Co Ltd,GCPT,0.0
+WRI1070717,Weiqiao Zouping-7 power station,山东省,117.8613,36.8972,2640.0,2013,Weiqiao Textile Limited,GCPT,0.0
+WRI1070410,Wuhan Ethylene power station,湖北省,114.5303,30.6529,240.0,2012,SINOPEC Wuhan Company,GCPT,0.0
+WRI1070047,Wuhu Zhongdian power station,安徽省,118.3445,31.4528,1320.0,2008,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1070286,Wujiaqu power station,新疆维吾尔自治区,87.6881,44.2686,3640.0,2013,Xinjiang Nongliushi Coal & Electricity Company,GCPT,0.0
+WRI1070168,Wujing power station,上海市,121.4664,31.0620,1800.0,1996,Shanghai Wujing Power LLC,GCPT,0.0
+WRI1075755,Wuwei Cogen power station,甘肃省,102.6859,37.9011,700.0,2017,Gansu Power Investment Co Ltd,GCPT,0.0
+WRI1070349,Wuxiang power station,山西省,112.8370,36.8228,1200.0,2006,Xishan Coal and Eletricity Power Co Ltd,GCPT,0.0
+WRI1070575,XPCC Shihezi Cogen power station,新疆维吾尔自治区,86.0936,44.4281,2120.0,2015,XPCC Shihezi Cogen Power Station,GCPT,0.0
+WRI1075756,XiAn Xijiao power station,陕西省,108.8451,34.2583,100.0,2002,Xian Xijiao Heating Co,GCPT,0.0
+WRI1070844,Xiahuayuan power station,河北省,115.2659,40.4890,200.0,1985,Datang Xiahuayuan Power Station,GCPT,0.0
+WRI1070694,Xiamen Songyu power station,福建省,118.0265,24.4468,1200.0,2001,Huaxia International Power Development Co Ltd,GCPT,0.0
+WRI1075757,Xiamen power station,福建省,118.0290,24.5718,92.0,2006,Fujian Huadian Power Company Limited,GCPT,0.0
+WRI1070411,Xiangfan power station,湖北省,112.1662,31.9122,2400.0,2002,China Huadian Group Corporation,GCPT,0.0
+WRI1070321,Xiangtan power station,湖南省,112.9961,27.8287,1800.0,2004,Datang Hunan Huayin Electric Power,GCPT,0.0
+WRI1070451,Xiaolongtan power station,云南省,103.1964,23.8377,600.0,1999,China Guodian Group Corporation,GCPT,0.0
+WRI1070843,Xibaipo power station,河北省,114.2149,38.2451,2400.0,2001,Hebei Construction Energy Investment Co Ltd,GCPT,0.0
+WRI1070485,Xihai-2 power station,青海省,100.9106,36.9743,270.0,2007,Northwest China Electric Power Group,GCPT,0.0
+WRI1075758,Xinfa Xiwang power station,山东省,116.2192,36.6150,465.0,2003,Shandong Xinfa Xiwang Aluminum Co,GCPT,0.0
+WRI1075759,Xingtai Cogen power station,河北省,114.6240,36.9700,700.0,2016,Hebei Construction Energy Investment Co,GCPT,0.0
+WRI1070620,Xingtai power station,河北省,114.4842,37.0089,600.0,1994,Hebei Construction Energy Investment Co Ltd,GCPT,0.0
+WRI1075760,Xingyang Integration power station,河南省,113.3676,34.8246,1260.0,2010,Guodian Henan Power,GCPT,0.0
+WRI1070209,Xingyi power station,贵州省,104.8560,25.2603,1200.0,2011,Guizhou Development Investment Corporation,GCPT,0.0
+WRI1070004,Xinhai power station,江苏省,119.1275,34.5782,2660.0,2009,Jiangsu Xinhai Power Co Ltd,GCPT,0.0
+WRI1070086,Xinhui Shuangshui power station-2,广东省,113.0000,22.4460,300.0,2004,Jiangmen Xinhui Renke Power Co Ltd,GCPT,0.0
+WRI1075761,Xinjiang Guanghui power station,新疆维吾尔自治区,94.9858,43.7064,270.0,2011,Xinjiang Guanghui Indust Inv,GCPT,0.0
+WRI1075762,Xinjiang Joinworld power station,新疆维吾尔自治区,88.0628,44.1268,300.0,2012,Xinjiang Joinworld Co.  Ltd.,GCPT,0.0
+WRI1075763,Xinjiang Qiya Smelter power station,新疆维吾尔自治区,89.0243,44.8594,2160.0,2014,Xinjiang Qiya Aluminum & Power,GCPT,0.0
+WRI1075764,Xinjiang Zhongtai Fukang Energy power station,新疆维吾尔自治区,87.7725,44.1269,300.0,2012,Xinjiang Zhongtai Chemical Co,GCPT,0.0
+WRI1075765,Xinjiang Zhongtai Fukang Metallurgy Power Station,新疆维吾尔自治区,88.5889,44.0810,600.0,2012,Xinjiang Zhongtai Chemical Co,GCPT,0.0
+WRI1075766,Xinjiang Zhongtai Huatai power station,新疆维吾尔自治区,87.6641,43.9429,300.0,2010,Xinjiang Zhongtai Chemical Co,GCPT,0.0
+WRI1070738,Xinxiang Baoshan power station,河南省,113.4906,35.3268,1320.0,2007,Huadian Power International Company Limited,GCPT,0.0
+WRI1070674,Xinxiang Huayu power station,河南省,113.9292,35.4055,660.0,2005,CPI Henan Electric Power Co Ltd,GCPT,0.0
+WRI1070716,Xinyuan Aluminum power station,山东省,116.2194,36.6148,3960.0,2015,Chiping Xinyuan Aluminum Co Ltd,GCPT,0.0
+WRI1075767,Xinyuan power station,陕西省,109.5941,35.1969,110.0,1999,Shaanxi Xinyuan Power Co,GCPT,0.0
+WRI1075768,Xinyuanjieneng Qingshuichuan power station,陕西省,111.0845,39.1805,600.0,2015,Fugu Energy Development  Fugu County Coal Electricity Smelter Chemistry Group,GCPT,0.0
+WRI1075769,Xishan Cogen power station,山西省,112.4180,37.8294,150.0,2006,Xishan Coal and Eletricity Power Co.,GCPT,0.0
+WRI1070200,Xishan Gujiao power station,山西省,112.0886,37.8915,2460.0,2013,Xishan Coal and Eletricity Power Co Ltd,GCPT,0.0
+WRI1070556,Xishui Erlang power station,贵州省,106.3528,28.1634,1320.0,2015,State Power Investment Corporation (SPIC),GCPT,0.0
+WRI1075770,Xishui power station,贵州省,106.1975,28.3567,540.0,2002,Guizhou Jinyuan Group,GCPT,0.0
+WRI1070197,Xixia Ningxia power station,宁夏回族自治区,106.1258,38.4439,1100.0,2014,Xixia Ningxia Power Station,GCPT,0.0
+WRI1070621,Xuanhua power station,河北省,115.0733,40.5799,600.0,2010,Hebei Construction Energy Investment Co Ltd,GCPT,0.0
+WRI1070454,Xuanwei power station,云南省,104.1106,26.1872,1800.0,2003,China Guodian Group Corporation,GCPT,0.0
+WRI1070672,Xuchang Yulong power station,河南省,113.3581,34.1748,2020.0,2006,Xuchang Yulong Power Station,GCPT,0.0
+WRI1070453,Xunjiansi power station,云南省,103.1891,23.9584,735.0,2008,Huadian Power International Company Limited,GCPT,0.0
+WRI1070554,Xuzhou Chacheng power station,江苏省,117.1348,34.4030,270.0,2000,Xuzhou Mining Group Co Ltd,GCPT,0.0
+WRI1070552,Xuzhou Huamei power station,江苏省,117.1048,34.3412,700.0,2016,Xuzhou Mining Group Co Ltd,GCPT,0.0
+WRI1070028,Xuzhou Pengcheng power station,江苏省,117.1763,34.3781,3340.0,2006,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070345,Yangcheng power station,山西省,112.5739,35.4670,3300.0,2004,Shanxi Datang International Power Generation Co Ltd,GCPT,0.0
+WRI1075771,Yangmei-3 power station,山西省,113.4423,37.8610,130.0,1998,Yangquan Coal Group Electricity Generation Branch,GCPT,0.0
+WRI1070346,Yangquan-2 power station,山西省,113.6262,37.7745,1280.0,1998,Shanxi International Electricity Group Co Ltd,GCPT,0.0
+WRI1070300,Yangxi Zhujiang power station,广东省,111.6703,21.5426,2520.0,2011,Guangdong Zhujiang Investment Co Ltd,GCPT,1.4
+WRI1075772,Yangzhou Mill power station,江苏省,119.4114,32.2648,122.0,2010,Yfy Group,GCPT,0.0
+WRI1070033,Yangzhou-1 power station,江苏省,119.4742,32.4299,660.0,1999,Jiangsu Huadian Yangzhou Power,GCPT,0.0
+WRI1070614,Yangzhou-2 power station,江苏省,119.4193,32.2684,2460.0,2002,Jiangsu Huadian Yangzhou Power,GCPT,0.0
+WRI1070456,Yangzonghai power station,云南省,103.0277,24.9622,1000.0,2004,China Guodian Group Corporation,GCPT,0.0
+WRI1075773,Yanzhou Mine Jisan power station,山东省,116.6598,35.2683,270.0,2006,Jisan Power Co,GCPT,0.0
+WRI1070770,Yaomeng power station,河南省,113.2419,33.7375,2160.0,1994,CPI Henan Electric Power Co Ltd,GCPT,0.0
+WRI1070475,Yaxi power station,贵州省,106.6552,27.5785,1200.0,2005,China Guodian Corporation,GCPT,0.0
+WRI1070207,Yemazhai power station,贵州省,104.8047,26.6786,600.0,2005,Guizhou Electric Power Corporation,GCPT,0.0
+WRI1070413,Yichang East power station,湖北省,111.4904,30.3269,600.0,2009,East Sun Industrial Development Co Ltd,GCPT,0.0
+WRI1070406,Yichang Xiaoting power station,湖北省,111.4421,30.4969,700.0,2014,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070746,Yichuan Longquan Kim Hyung power station,河南省,112.5011,34.4146,1320.0,2012,Henan Yichuan Power Group Co Ltd,GCPT,0.0
+WRI1075774,Yichuan-3 power station,河南省,112.5561,34.4156,900.0,2006,Henan Yichuan Power Group Co,GCPT,0.0
+WRI1075775,Yihua Wucaiwan power station,新疆维吾尔自治区,89.2476,44.8931,660.0,2014,Hubei Yihua Chemical Industry,GCPT,0.0
+WRI1070743,Yima Gezha power station,河南省,111.8800,34.7217,310.0,2010,Yima Huanbao Power Co Ltd,GCPT,0.0
+WRI1075776,Yinchuan power station,宁夏回族自治区,106.2289,38.4677,60.0,,Ningxia Electric Power Group Co,GCPT,0.0
+WRI1075777,Yinxing power station,宁夏回族自治区,106.7409,37.7274,1320.0,2017,Ningxia Energy Group Co,GCPT,0.0
+WRI1070230,Yixing Cogen power station,江苏省,119.7727,31.3701,120.0,2004,China Resources Power Holdings Co Ltd,GCPT,0.0
+WRI1070235,Yixing Xielian power station,江苏省,119.8283,31.3962,270.0,2002,Union Energy Co,GCPT,0.0
+WRI1070320,Yiyang power station,湖南省,112.2683,28.5971,1920.0,2005,China Guodian Group Corporation,GCPT,0.0
+WRI1070681,Yongan power station,福建省,117.3798,26.0036,600.0,2002,Huadian Fuxin Energy Co Ltd,GCPT,0.0
+WRI1070092,Yongchuan Songgai power station,重庆市,105.8844,29.0555,270.0,2008,China Power Investment Corporation (CPI),GCPT,0.0
+WRI1070348,Yonghao Waste Coal power station,山西省,112.7999,39.6103,100.0,2007,China National Coal Group (ChinaCoal),GCPT,0.0
+WRI1070354,Youyu power station,山西省,112.5117,39.8663,660.0,2012,Youyu Power Station,GCPT,0.0
+WRI1070123,Yuci power station,山西省,112.7478,37.6268,660.0,2010,Guodian Shanxi Branch Co Ltd,GCPT,0.0
+WRI1075778,Yudean Dabu power station,广东省,116.5878,24.4057,1200.0,2016,Guangdong Elec Power Dev Co,GCPT,0.0
+WRI1070683,Yuehua Huangpu power station,广东省,113.4951,23.0792,600.0,1990,Guangdong Electric Power Development Co Ltd,GCPT,0.0
+WRI1075779,Yueyang Paper Mill power station,湖南省,113.1653,29.4523,100.0,2010,China Paper Invesrtment Co  Yueyang Paper Mill,GCPT,0.0
+WRI1075780,Yulin Beijiao power station,陕西省,109.8108,38.2993,700.0,2018,Yushen Coal,GCPT,0.0
+WRI1075781,Yulin Energy Chemical Industry captive power station,陕西省,108.9343,37.6529,100.0,2016,China Coal Yulin Energy Chemical Industry Limited Company,GCPT,0.0
+WRI1075782,Yulin Huitong Cogen power station,陕西省,109.7284,38.2157,100.0,,Yulin Huitong Power Generation Co.,GCPT,0.0
+WRI1075783,Yulin Methanol power station,陕西省,109.9338,38.5799,300.0,2008,Yulin Energy & Chemistry Co,GCPT,0.0
+WRI1070495,Yulin Shanghe power station,陕西省,109.7414,38.4284,280.0,2004,Shaanxi Yinhe Yulin Power Generation,GCPT,0.0
+WRI1075784,Yulin Yangguang power station,陕西省,109.8646,38.4008,60.0,2003,Qianyuan Energy & Chemical Co,GCPT,0.0
+WRI1070497,Yulin Yuheng power station,陕西省,109.5370,38.1347,1200.0,2014,Shaanxi Yulin Energy Group,GCPT,0.0
+WRI1070651,Yuncheng power station,山西省,110.2880,34.6433,1200.0,2007,Shanxi Datang International Power Generation Co Ltd,GCPT,0.0
+WRI1070297,Yunfu power station,广东省,112.1005,22.9838,1120.0,2004,Guangdong Electric Power Development Co Ltd,GCPT,0.0
+WRI1070287,Yunhe power station,山东省,116.4769,35.4867,1240.0,2004,Huaneng Shandong Power Co Ltd,GCPT,0.0
+WRI1075785,Yuning Cogen Power Station,河北省,114.1683,36.7319,100.0,2006,Handan Mining Group,GCPT,0.0
+WRI1075786,Zaozhuang Bayi power station,山东省,117.2711,34.8284,700.0,2018,Zaozhuang Bayi Cogen Power Co,GCPT,0.0
+WRI1075787,Zaozhuang Nanjiao Cogen Power Station,山东省,117.5130,34.8296,100.0,2006,Zaozhuang Nanjiao Cogen Power Co.,GCPT,0.0
+WRI1075788,Zhangdian power station,山东省,118.0939,36.7938,190.0,1999,Shandong Tianyuan Thermoelectricity,GCPT,0.0
+WRI1075789,Zhangjiagang Changyuan Cogen power station,江苏省,120.4527,31.9679,70.0,2011,,GCPT,0.0
+WRI1070023,Zhangjiagang Shagang power station,江苏省,120.6334,31.9789,200.0,2004,Jiangsu Shagang - Zhangjiagang Works,GCPT,0.0
+WRI1070234,Zhangjiagang Shazhou power station,江苏省,120.6884,31.9890,3260.0,2013,Beijing Sanjili Energy Co Ltd,GCPT,0.0
+WRI1070323,Zhangjiajie Sangzi power station,湖南省,110.1314,29.3815,120.0,2007,Zhangjiajie Sangzhi power station,GCPT,0.0
+WRI1070622,Zhangjiakou ZTP power station,河北省,114.8122,40.7471,600.0,2010,Hebei Datang International Thermal Power Co Ltd,GCPT,0.0
+WRI1070623,Zhangjiakou power station,河北省,114.9439,40.6597,2560.0,1996,Datang Zhangjiakou Power Station,GCPT,0.0
+WRI1070679,Zhangping power station,福建省,117.3989,25.2836,600.0,2003,Huadian Fuxin Energy Co Ltd,GCPT,0.0
+WRI1072553,Zhangqiu power station,山东省,117.4036,36.7284,890.0,2005,Huadian Power International Corporation Limited,GCPT,0.0
+WRI1075790,Zhangshan power station,山西省,113.0814,36.3261,1800.0,2007,Beijing Energy Investment Holding  Shanxi Zhangshan Power Generation Co,GCPT,0.0
+WRI1070460,Zhangze Changzhi power station,山西省,113.0807,36.3228,840.0,1989,Zhangze Power,GCPT,0.0
+WRI1070823,Zhangze Linfen power station,山西省,111.3994,36.0867,600.0,2012,Shanxi Zhangze Electric Power Co Ltd,GCPT,0.0
+WRI1075791,Zhanhua Waste Coal power station,山东省,117.9783,38.0114,240.0,2016,Shandong Weiqiao Group,GCPT,0.0
+WRI1070296,Zhanjiang Aoliyou power station,广东省,110.4091,21.3156,1200.0,2011,Guangdong Electric Power Development Co Ltd,GCPT,0.0
+WRI1075792,Zhaofeng Aluminum captive power station,山西省,113.5808,37.7674,405.0,2006,Zhaofeng Aluminum,GCPT,0.0
+WRI1075793,Zhejiang Jian Paper Container power station,浙江省,121.0064,30.6055,84.0,2006,Zhejiang Jian Paper Container Co,GCPT,0.0
+WRI1070517,Zhejiang Taizhou-1 power station,浙江省,121.4530,28.6978,1260.0,1995,Zhejiang Zheneng Electric Power Co Ltd,GCPT,0.0
+WRI1070643,Zhejiang Taizhou-2 power station,浙江省,121.6955,29.0132,2000.0,2015,Zhejiang Zheneng Electric Power Co Ltd,GCPT,2.8
+WRI1070640,Zhejiang Zhapu EDP power station,浙江省,121.0466,30.6035,37.0,,Zhejiang Jiahua Industrial Park Investment & Development Company,GCPT,0.0
+WRI1070293,Zhejiang Zhenhai power station,浙江省,121.6881,29.9445,860.0,1988,Zhejiang Zheneng Electric Power Co Ltd,GCPT,0.0
+WRI1070510,Zheneng Changxing power station,浙江省,119.9293,30.9919,1200.0,2004,Zhejiang Zheneng Electric Power Co Ltd,GCPT,0.0
+WRI1070516,Zheneng Liuheng power station,浙江省,122.1262,29.7592,2000.0,2014,Zhejiang Zheneng Electric Power Co Ltd,GCPT,0.0
+WRI1070644,Zheneng Wenzhou power station,浙江省,120.8356,27.9963,2520.0,2007,Zhejiang Zheneng Electric Power Co Ltd,GCPT,0.0
+WRI1070448,Zheneng Yueqing power station,浙江省,121.0889,28.1704,2520.0,2009,Zhejiang Zheneng Electric Power Co Ltd,GCPT,0.0
+WRI1070671,Zhengzhou Taixiang Cogen power station,河南省,113.5017,34.7927,270.0,2008,CITIC Pacific Limited,GCPT,0.0
+WRI1075794,Zhengzhou Zhengdong power station,河南省,113.8529,34.7523,400.0,2007,Zhengzhou Zhengdong New District,GCPT,0.0
+WRI1061050,Zhenhai Oil power station,浙江省,121.6880,29.9768,300.0,2008,Zhejiang Provincial Energy Group Zhenhai Natural Gas Power Generation Co.  Ltd.,GCPT,0.0
+WRI1070579,Zhongtai Toksun power station,新疆维吾尔自治区,88.6450,42.7372,600.0,2015,Zhongtai Toksun Power Station,GCPT,0.0
+WRI1075795,Zhongtian Hechuang Ordos power station,内蒙古自治区,109.4739,39.0858,300.0,2016,Zhongtian Hechuang Energy Co,GCPT,0.0
+WRI1070298,Zhuhai GZP power station,广东省,113.1812,21.9670,1400.0,2000,Cheung Kong Infrastructure Holdings Limited,GCPT,0.0
+WRI1070137,Zhumadian-3 power station,河南省,114.0536,33.0419,660.0,2011,Guodian Henan Power Co Ltd,GCPT,0.0
+WRI1070383,Zhunda power station,内蒙古自治区,111.1595,39.7844,600.0,2006,Inner Mongolia Zhunda Power,GCPT,0.0
+WRI1070388,Zhungeer power station,内蒙古自治区,111.2563,39.8535,1320.0,2003,Inner Mongolia Zhunneng TPC,GCPT,0.0
+WRI1075796,Zibo Hongda power station,山东省,118.0500,36.7833,140.0,2004,Zibo Hongda Thermal Power,GCPT,0.0
+WRI1072548,Zouxian power station,山东省,116.9261,35.3256,4540.0,1998,China Huadian Corporation,GCPT,0.0

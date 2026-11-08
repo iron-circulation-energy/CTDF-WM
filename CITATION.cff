@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, cite this software and record the commit used. Add the associated article citation when published."
+type: software
+repository-code: "https://github.com/iron-circulation-energy/CTDF-WM"
+url: "https://github.com/iron-circulation-energy/CTDF-WM"
+title: "CTDF-WM: cross-regional iron circulation for coal-plant retrofits and renewable storage"
+authors:
+  - family-names: Liu
+    given-names: Yuqian
+  - family-names: Sun
+    given-names: Guojian
+  - family-names: Sun
+    given-names: Peng
+  - family-names: Yang
+    given-names: Mao
+  - family-names: Chen
+    given-names: Zhe
+license: MIT

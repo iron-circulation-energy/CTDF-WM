@@ -1,0 +1,66 @@
+prov,kind,k,lon,lat,weight,nPlants,mwGPPD,rmsKm,method,siteName
+北京市,pv,1,116.0100,40.5200,1,4,68,38,medoid,Jingneng Bejing Badaling
+天津市,pv,1,117.6520,39.1280,1,1,170,0,medoid,Tianjin Binhai
+河北省,pv,1,114.4910,40.2250,1,64,2338,233,medoid,Yangyuan D
+山西省,pv,1,112.9560,40.0080,1,29,2310,93,medoid,Datong TopRunner
+内蒙古自治区,pv,1,106.5070,39.5450,0.632,121,5189,374,kmedoids2,Bayan'aobo A
+内蒙古自治区,pv,2,112.6010,41.0980,0.368,121,5189,374,kmedoids2,Bayin Xile IV
+辽宁省,pv,1,121.2390,41.4530,1,8,185,83,medoid,Yixian B
+吉林省,pv,1,123.9700,44.1970,1,17,489,137,medoid,Changling B
+黑龙江省,pv,1,125.0060,46.2450,1,4,212,115,medoid,Changde
+上海市,pv,1,121.2050,30.9200,1,2,107,8,medoid,Lingang
+江苏省,pv,1,119.2040,33.1760,1,112,2817,147,medoid,Jinhu D
+浙江省,pv,1,120.2092,30.2942,1,30,1414,181,medoid,Hangzhou Station
+安徽省,pv,1,117.0950,32.2750,1,60,2348,131,medoid,Changfeng Floating B
+福建省,pv,1,118.5400,24.7120,1,1,11,0,medoid,Quanzhou
+江西省,pv,1,117.2140,28.2560,1,15,804,155,medoid,Guixi CPI
+山东省,pv,1,118.7500,37.1810,1,24,730,201,medoid,Shouguang C
+河南省,pv,1,114.0860,35.5870,1,60,1744,162,medoid,Hebi Qi I
+湖北省,pv,1,113.5150,31.7600,1,12,623,119,medoid,Xihe
+湖南省,pv,1,112.9100,27.9461,1,1,21,0,medoid,Three parks
+广东省,pv,1,111.5230,21.5770,1,4,125,157,medoid,Yangxi A
+广西壮族自治区,pv,1,108.0184,23.5151,1,0,0,,label,
+海南省,pv,1,109.1850,19.7750,1,4,97,92,medoid,Jinhai
+重庆市,pv,1,107.8286,29.8807,1,0,0,,label,
+四川省,pv,1,102.5650,32.7940,1,5,110,373,medoid,Qiongxi
+贵州省,pv,1,104.2650,26.7550,1,2,102,135,medoid,Weining Mezhan
+云南省,pv,1,102.8500,24.3450,1,26,1310,182,medoid,Yuxi
+西藏自治区,pv,1,91.8540,29.2920,1,11,189,175,medoid,Sangri D
+陕西省,pv,1,109.0410,37.9320,1,38,2349,122,medoid,Guoliangcun A
+甘肃省,pv,1,102.1130,38.6170,1,190,8520,287,medoid,Jinchuan G
+青海省,pv,1,97.1769,37.3445,1,144,6756,211,medoid,Datang Delingha
+宁夏回族自治区,pv,1,106.3780,37.7980,1,120,5411,89,medoid,Baitugang II
+新疆维吾尔自治区,pv,1,90.0580,42.9640,0.647,209,8254,529,kmedoids2,Shanshan 3
+新疆维吾尔自治区,pv,2,80.0870,41.0580,0.353,209,8254,529,kmedoids2,Aksu F
+北京市,wind,1,116.0100,40.5200,1,0,0,,pvMedoid,Jingneng Bejing Badaling
+天津市,wind,1,117.4100,38.6100,1,4,173,34,medoid,Tianjin Longyuan Dagang Phase 2 Wind
+河北省,wind,1,115.2483,41.2400,1,81,4805,150,medoid,Zhangbei Dahulun Phase 1
+山西省,wind,1,112.2689,39.6517,1,25,1358,143,medoid,Dashantai Phase 2 Wind
+内蒙古自治区,wind,1,119.1022,43.7550,0.527,194,11552,444,kmedoids2,Inner Mongolia Chifeng Chaganhada Wind
+内蒙古自治区,wind,2,112.6248,41.6692,0.473,194,11552,444,kmedoids2,Huadian Wind Huitengxile Inner Mongolia
+辽宁省,wind,1,122.5200,42.4100,1,75,3852,146,medoid,Liaoning Kangping
+吉林省,wind,1,123.0671,45.2147,1,53,3107,93,medoid,Jilin Xiangyang 1st Phase Wind
+黑龙江省,wind,1,129.7310,46.2680,1,57,2559,229,medoid,Heilongjiang Yilan Jiguanlazishan
+上海市,wind,1,121.9328,30.9856,1,6,247,52,medoid,Shanghai Fengxian Bay Capacity Expansion
+江苏省,wind,1,121.1400,32.5200,1,20,2122,100,medoid,Huangang
+浙江省,wind,1,121.9758,29.5900,1,11,235,142,medoid,Cgn Xiangshan Tuci Wind
+安徽省,wind,1,118.4500,32.6700,1,4,195,33,medoid,Anhui Laian Longwosi Wind
+福建省,wind,1,119.3467,25.2640,1,23,1051,100,medoid,Putian Shicheng Phase 2 Wind
+江西省,wind,1,116.0711,29.4911,1,3,83,17,medoid,Jiangxi Xingzi Daling
+山东省,wind,1,119.8067,37.1778,1,82,3815,160,medoid,Huadian Laizhou
+河南省,wind,1,111.9556,34.9056,1,7,270,205,medoid,Pinglu Tianrun Zhangdianzhen Phase 1
+湖北省,wind,1,108.7553,30.4156,1,2,97,496,medoid,Hubei Lichuan Qiyueshan Wind
+湖南省,wind,1,112.7019,25.4422,1,4,193,207,medoid,Hunan Chenzhou Xiangdian Luhejin Wind
+广东省,wind,1,112.7630,22.0230,1,33,1480,307,medoid,Cgn Guangdong Guanghai Wind
+广西壮族自治区,wind,1,110.0517,26.0850,1,6,246,162,medoid,Longsheng Nanshan Phase 2
+海南省,wind,1,108.6368,19.2218,1,4,151,56,medoid,Hainan Dongfang Sigeng Phase 1
+重庆市,wind,1,107.8286,29.8807,1,0,0,,label,
+四川省,wind,1,106.9000,31.2250,1,2,79,111,medoid,Ningxia Mahuang Mountain Huianpu Hanas Phase One
+贵州省,wind,1,104.4964,26.9164,1,2,97,170,medoid,Huaneng Wujiangyuan Baicaoping
+云南省,wind,1,101.2911,25.5253,1,28,1273,202,medoid,Meijiashan
+西藏自治区,wind,1,91.8540,29.2920,1,0,0,,pvMedoid,Sangri D
+陕西省,wind,1,108.3256,37.2536,1,9,439,40,medoid,Guodian Jingbian Jishanliang Phase 3
+甘肃省,wind,1,95.7329,40.6876,1,9,6391,173,medoid,Gansu Wind Farm
+青海省,wind,1,99.3550,36.6150,1,2,98,132,medoid,Qinghai Chaqia Phase 1
+宁夏回族自治区,wind,1,106.3976,37.5471,1,59,2896,67,medoid,Datang Ningxia Taiyangshan Phase 3
+新疆维吾尔自治区,wind,1,87.8540,43.6000,1,30,2126,289,medoid,Dabancheng Wind Farm
